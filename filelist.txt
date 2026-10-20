@@ -1,0 +1,1411 @@
+D:\TMF\영문 MD\TMF Open API\api_directory_export_2026-10-18.xls
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)
+D:\TMF\영문 MD\TMF Open API\filelist.txt
+D:\TMF\영문 MD\TMF Open API\Marketing Sales APIs (1)
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF623_SLA_Management_API_user_guides_14.5.1
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF632_Party_userguide
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF644_Privacy_userguide
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF651_Agreement_Management_API_v4.0.0_specification
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF666_Account_userguide
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF668_Partnership_Management_API_v4.0.0_specification
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF669_Party_Role_userguide
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF683_Party_Interaction_userguide
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF684_Shipment_Tracking_API_user_guides_18.0.1
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF711_Shipment_Management_Management_API.미존재
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF731_Work_Management.미존재
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF736_Revenue_Sharing_Algorithms_userguide
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF737_Revenue_Sharing_Reports_userguide
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF738_Revenue_Sharing_Models_userguide
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF623_SLA_Management_API_user_guides_14.5.1\0.jpg
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF623_SLA_Management_API_user_guides_14.5.1\1.jpg
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF623_SLA_Management_API_user_guides_14.5.1\TMF623_SLA_Management_API_user_guides_14.5.1.html
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF623_SLA_Management_API_user_guides_14.5.1\TMF623_SLA_Management_API_user_guides_14.5.1.md
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF623_SLA_Management_API_user_guides_14.5.1\TMF623_SLA_Management_API_user_guides_14.5.1.pdf
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF632_Party_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF632_Party_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF632_Party_userguide\10.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF632_Party_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF632_Party_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF632_Party_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF632_Party_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF632_Party_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF632_Party_userguide\7.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF632_Party_userguide\8.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF632_Party_userguide\9.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF632_Party_userguide\TMF632_Party_userguide.html
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF632_Party_userguide\TMF632_Party_userguide.md
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF632_Party_userguide\TMF632_Party_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF644_Privacy_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF644_Privacy_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF644_Privacy_userguide\10.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF644_Privacy_userguide\11.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF644_Privacy_userguide\12.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF644_Privacy_userguide\13.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF644_Privacy_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF644_Privacy_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF644_Privacy_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF644_Privacy_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF644_Privacy_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF644_Privacy_userguide\7.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF644_Privacy_userguide\8.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF644_Privacy_userguide\9.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF644_Privacy_userguide\TMF644_Privacy_userguide.html
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF644_Privacy_userguide\TMF644_Privacy_userguide.md
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF644_Privacy_userguide\TMF644_Privacy_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF651_Agreement_Management_API_v4.0.0_specification\0.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF651_Agreement_Management_API_v4.0.0_specification\1.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF651_Agreement_Management_API_v4.0.0_specification\2.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF651_Agreement_Management_API_v4.0.0_specification\3.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF651_Agreement_Management_API_v4.0.0_specification\4.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF651_Agreement_Management_API_v4.0.0_specification\TMF651_Agreement_Management_API_v4.0.0_specification.html
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF651_Agreement_Management_API_v4.0.0_specification\TMF651_Agreement_Management_API_v4.0.0_specification.md
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF651_Agreement_Management_API_v4.0.0_specification\TMF651_Agreement_Management_API_v4.0.0_specification.pdf
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF666_Account_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF666_Account_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF666_Account_userguide\10.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF666_Account_userguide\11.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF666_Account_userguide\12.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF666_Account_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF666_Account_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF666_Account_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF666_Account_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF666_Account_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF666_Account_userguide\7.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF666_Account_userguide\8.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF666_Account_userguide\9.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF666_Account_userguide\TMF666_Account_userguide.html
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF666_Account_userguide\TMF666_Account_userguide.md
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF666_Account_userguide\TMF666_Account_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF668_Partnership_Management_API_v4.0.0_specification\0.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF668_Partnership_Management_API_v4.0.0_specification\1.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF668_Partnership_Management_API_v4.0.0_specification\2.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF668_Partnership_Management_API_v4.0.0_specification\3.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF668_Partnership_Management_API_v4.0.0_specification\4.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF668_Partnership_Management_API_v4.0.0_specification\5.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF668_Partnership_Management_API_v4.0.0_specification\TMF668_Partnership_Management_API_v4.0.0_specification.html
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF668_Partnership_Management_API_v4.0.0_specification\TMF668_Partnership_Management_API_v4.0.0_specification.md
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF668_Partnership_Management_API_v4.0.0_specification\TMF668_Partnership_Management_API_v4.0.0_specification.pdf
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF669_Party_Role_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF669_Party_Role_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF669_Party_Role_userguide\10.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF669_Party_Role_userguide\11.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF669_Party_Role_userguide\12.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF669_Party_Role_userguide\13.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF669_Party_Role_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF669_Party_Role_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF669_Party_Role_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF669_Party_Role_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF669_Party_Role_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF669_Party_Role_userguide\7.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF669_Party_Role_userguide\8.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF669_Party_Role_userguide\9.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF669_Party_Role_userguide\TMF669_Party_Role_userguide.html
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF669_Party_Role_userguide\TMF669_Party_Role_userguide.md
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF669_Party_Role_userguide\TMF669_Party_Role_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF683_Party_Interaction_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF683_Party_Interaction_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF683_Party_Interaction_userguide\10.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF683_Party_Interaction_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF683_Party_Interaction_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF683_Party_Interaction_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF683_Party_Interaction_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF683_Party_Interaction_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF683_Party_Interaction_userguide\7.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF683_Party_Interaction_userguide\8.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF683_Party_Interaction_userguide\9.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF683_Party_Interaction_userguide\TMF683_Party_Interaction_userguide.html
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF683_Party_Interaction_userguide\TMF683_Party_Interaction_userguide.md
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF683_Party_Interaction_userguide\TMF683_Party_Interaction_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF684_Shipment_Tracking_API_user_guides_18.0.1\0.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF684_Shipment_Tracking_API_user_guides_18.0.1\1.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF684_Shipment_Tracking_API_user_guides_18.0.1\2.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF684_Shipment_Tracking_API_user_guides_18.0.1\3.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF684_Shipment_Tracking_API_user_guides_18.0.1\TMF684_Shipment_Tracking_API_user_guides_18.0.1.html
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF684_Shipment_Tracking_API_user_guides_18.0.1\TMF684_Shipment_Tracking_API_user_guides_18.0.1.md
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF684_Shipment_Tracking_API_user_guides_18.0.1\TMF684_Shipment_Tracking_API_user_guides_18.0.1.pdf
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\0.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\1.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\10.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\11.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\12.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\13.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\14.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\15.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\16.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\17.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\18.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\19.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\2.jpg
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\20.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\21.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\22.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\23.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\24.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\25.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\26.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\27.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\28.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\29.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\3.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\30.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\31.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\32.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\33.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\34.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\35.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\36.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\37.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\38.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\39.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\4.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\40.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\41.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\42.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\43.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\44.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\45.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\46.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\47.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\48.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\5.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\6.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\7.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\8.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\9.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification.html
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification.md
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification\TMF700_Shipping_Order_Management_API_v4.0.0_beta_specification.pdf
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF736_Revenue_Sharing_Algorithms_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF736_Revenue_Sharing_Algorithms_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF736_Revenue_Sharing_Algorithms_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF736_Revenue_Sharing_Algorithms_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF736_Revenue_Sharing_Algorithms_userguide\TMF736_Revenue_Sharing_Algorithms_userguide.html
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF736_Revenue_Sharing_Algorithms_userguide\TMF736_Revenue_Sharing_Algorithms_userguide.md
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF736_Revenue_Sharing_Algorithms_userguide\TMF736_Revenue_Sharing_Algorithms_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF737_Revenue_Sharing_Reports_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF737_Revenue_Sharing_Reports_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF737_Revenue_Sharing_Reports_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF737_Revenue_Sharing_Reports_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF737_Revenue_Sharing_Reports_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF737_Revenue_Sharing_Reports_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF737_Revenue_Sharing_Reports_userguide\TMF737_Revenue_Sharing_Reports_userguide.html
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF737_Revenue_Sharing_Reports_userguide\TMF737_Revenue_Sharing_Reports_userguide.md
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF737_Revenue_Sharing_Reports_userguide\TMF737_Revenue_Sharing_Reports_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF738_Revenue_Sharing_Models_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF738_Revenue_Sharing_Models_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF738_Revenue_Sharing_Models_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF738_Revenue_Sharing_Models_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF738_Revenue_Sharing_Models_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF738_Revenue_Sharing_Models_userguide\TMF738_Revenue_Sharing_Models_userguide.html
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF738_Revenue_Sharing_Models_userguide\TMF738_Revenue_Sharing_Models_userguide.md
+D:\TMF\영문 MD\TMF Open API\Business Partner APIs (15)\TMF738_Revenue_Sharing_Models_userguide\TMF738_Revenue_Sharing_Models_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF621_Trouble_Ticket_userguide-v5.0.1
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF628_Performance-v5.0.0
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF649_Performance_Thresholding_v5.0_userguide
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF655_Change_Management_API_v4.0.0_specification
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF662_Entity_Catalog_Management_API_v4.0.0_specification
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF667_Document_v5.0_userguide
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF672_User_Role_Permission_v5.1_userguide
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF673_Geographic_Address-v5.0.0
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF674_Geographic_Site_v5.0_userguide
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF675_Geographic_Location_Management_API.미존재
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF681_Communication_Management_API_v4.0.0_specification
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF686_Topology_Management_API_v4.0.0_beta_specification
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF688_Event_Management_API_v4.0.0_beta_specification
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF691_Federated_ID_v5.0.0_specification
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF701_Process_v5.0_userguide
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF703_Entity_Inventory_Management_API_v4.0.0_beta_specification
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF704_Test_Case_Management_API_v4.0.0_specification
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF705_Test_Environment_Management_API_v4.0.0_specification
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF706_Test_Data_Management_API_v4.0.0_specification
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF707_Test_Result_Management_API_v4.0.0_specification
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF708_Test_Execution_Management_API_v4.0.0_specification
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF709_Test_Scenario_Management_API_v4.0.0_specification
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF710_General_Test_Artifact_Management_API_v4.0.0_specification
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF714_Work_Qualification_Management.미존재
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF715_Warranty_Management.미존재
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF720_Digital_Identity_userguide
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF724_Incident_Management_API_v4.0.0_specification
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF725_Metadata_Catalog_Management_API.미존재
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF728_Dunning_v5.0_userguide
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF735_CDR_Transactions_userguide
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF764_Cost_Management_userguide
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF910_Self_Care_API_Component_Suite_user_guides_18.0.1
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF915_AI_Management_API_v4.0.0_specification
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF921_Intent_Management_v5.0.0_specification
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF621_Trouble_Ticket_userguide-v5.0.1\0.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF621_Trouble_Ticket_userguide-v5.0.1\1.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF621_Trouble_Ticket_userguide-v5.0.1\2.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF621_Trouble_Ticket_userguide-v5.0.1\3.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF621_Trouble_Ticket_userguide-v5.0.1\4.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF621_Trouble_Ticket_userguide-v5.0.1\5.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF621_Trouble_Ticket_userguide-v5.0.1\6.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF621_Trouble_Ticket_userguide-v5.0.1\7.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF621_Trouble_Ticket_userguide-v5.0.1\8.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF621_Trouble_Ticket_userguide-v5.0.1\TMF621_Trouble_Ticket_userguide-v5.0.1.html
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF621_Trouble_Ticket_userguide-v5.0.1\TMF621_Trouble_Ticket_userguide-v5.0.1.md
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF621_Trouble_Ticket_userguide-v5.0.1\TMF621_Trouble_Ticket_userguide-v5.0.1.pdf
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF628_Performance-v5.0.0\0.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF628_Performance-v5.0.0\1.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF628_Performance-v5.0.0\2.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF628_Performance-v5.0.0\TMF628_Performance-v5.0.0.html
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF628_Performance-v5.0.0\TMF628_Performance-v5.0.0.md
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF628_Performance-v5.0.0\TMF628_Performance-v5.0.0.pdf
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF649_Performance_Thresholding_v5.0_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF649_Performance_Thresholding_v5.0_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF649_Performance_Thresholding_v5.0_userguide\10.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF649_Performance_Thresholding_v5.0_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF649_Performance_Thresholding_v5.0_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF649_Performance_Thresholding_v5.0_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF649_Performance_Thresholding_v5.0_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF649_Performance_Thresholding_v5.0_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF649_Performance_Thresholding_v5.0_userguide\7.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF649_Performance_Thresholding_v5.0_userguide\8.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF649_Performance_Thresholding_v5.0_userguide\9.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF649_Performance_Thresholding_v5.0_userguide\TMF649_Performance_Thresholding_v5.0_userguide.html
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF649_Performance_Thresholding_v5.0_userguide\TMF649_Performance_Thresholding_v5.0_userguide.md
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF649_Performance_Thresholding_v5.0_userguide\TMF649_Performance_Thresholding_v5.0_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF655_Change_Management_API_v4.0.0_specification\0.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF655_Change_Management_API_v4.0.0_specification\1.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF655_Change_Management_API_v4.0.0_specification\2.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF655_Change_Management_API_v4.0.0_specification\3.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF655_Change_Management_API_v4.0.0_specification\4.jpg
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF655_Change_Management_API_v4.0.0_specification\5.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF655_Change_Management_API_v4.0.0_specification\6.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF655_Change_Management_API_v4.0.0_specification\7.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF655_Change_Management_API_v4.0.0_specification\8.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF655_Change_Management_API_v4.0.0_specification\TMF655_Change_Management_API_v4.0.0_specification.html
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF655_Change_Management_API_v4.0.0_specification\TMF655_Change_Management_API_v4.0.0_specification.md
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF655_Change_Management_API_v4.0.0_specification\TMF655_Change_Management_API_v4.0.0_specification.pdf
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF662_Entity_Catalog_Management_API_v4.0.0_specification\0.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF662_Entity_Catalog_Management_API_v4.0.0_specification\1.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF662_Entity_Catalog_Management_API_v4.0.0_specification\10.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF662_Entity_Catalog_Management_API_v4.0.0_specification\2.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF662_Entity_Catalog_Management_API_v4.0.0_specification\3.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF662_Entity_Catalog_Management_API_v4.0.0_specification\4.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF662_Entity_Catalog_Management_API_v4.0.0_specification\5.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF662_Entity_Catalog_Management_API_v4.0.0_specification\6.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF662_Entity_Catalog_Management_API_v4.0.0_specification\7.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF662_Entity_Catalog_Management_API_v4.0.0_specification\8.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF662_Entity_Catalog_Management_API_v4.0.0_specification\9.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF662_Entity_Catalog_Management_API_v4.0.0_specification\TMF662_Entity_Catalog_Management_API_v4.0.0_specification.html
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF662_Entity_Catalog_Management_API_v4.0.0_specification\TMF662_Entity_Catalog_Management_API_v4.0.0_specification.md
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF662_Entity_Catalog_Management_API_v4.0.0_specification\TMF662_Entity_Catalog_Management_API_v4.0.0_specification.pdf
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF667_Document_v5.0_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF667_Document_v5.0_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF667_Document_v5.0_userguide\TMF667_Document_v5.0_userguide.html
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF667_Document_v5.0_userguide\TMF667_Document_v5.0_userguide.md
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF667_Document_v5.0_userguide\TMF667_Document_v5.0_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF672_User_Role_Permission_v5.1_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF672_User_Role_Permission_v5.1_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF672_User_Role_Permission_v5.1_userguide\10.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF672_User_Role_Permission_v5.1_userguide\11.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF672_User_Role_Permission_v5.1_userguide\12.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF672_User_Role_Permission_v5.1_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF672_User_Role_Permission_v5.1_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF672_User_Role_Permission_v5.1_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF672_User_Role_Permission_v5.1_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF672_User_Role_Permission_v5.1_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF672_User_Role_Permission_v5.1_userguide\7.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF672_User_Role_Permission_v5.1_userguide\8.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF672_User_Role_Permission_v5.1_userguide\9.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF672_User_Role_Permission_v5.1_userguide\TMF672_User_Role_Permission_v5.1_userguide.html
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF672_User_Role_Permission_v5.1_userguide\TMF672_User_Role_Permission_v5.1_userguide.md
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF672_User_Role_Permission_v5.1_userguide\TMF672_User_Role_Permission_v5.1_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF673_Geographic_Address-v5.0.0\0.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF673_Geographic_Address-v5.0.0\1.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF673_Geographic_Address-v5.0.0\2.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF673_Geographic_Address-v5.0.0\3.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF673_Geographic_Address-v5.0.0\4.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF673_Geographic_Address-v5.0.0\5.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF673_Geographic_Address-v5.0.0\6.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF673_Geographic_Address-v5.0.0\7.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF673_Geographic_Address-v5.0.0\8.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF673_Geographic_Address-v5.0.0\9.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF673_Geographic_Address-v5.0.0\TMF673_Geographic_Address-v5.0.0.html
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF673_Geographic_Address-v5.0.0\TMF673_Geographic_Address-v5.0.0.md
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF673_Geographic_Address-v5.0.0\TMF673_Geographic_Address-v5.0.0.pdf
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF674_Geographic_Site_v5.0_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF674_Geographic_Site_v5.0_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF674_Geographic_Site_v5.0_userguide\TMF674_Geographic_Site_v5.0_userguide.html
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF674_Geographic_Site_v5.0_userguide\TMF674_Geographic_Site_v5.0_userguide.md
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF674_Geographic_Site_v5.0_userguide\TMF674_Geographic_Site_v5.0_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF681_Communication_Management_API_v4.0.0_specification\0.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF681_Communication_Management_API_v4.0.0_specification\1.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF681_Communication_Management_API_v4.0.0_specification\2.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF681_Communication_Management_API_v4.0.0_specification\3.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF681_Communication_Management_API_v4.0.0_specification\4.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF681_Communication_Management_API_v4.0.0_specification\5.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF681_Communication_Management_API_v4.0.0_specification\TMF681_Communication_Management_API_v4.0.0_specification.html
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF681_Communication_Management_API_v4.0.0_specification\TMF681_Communication_Management_API_v4.0.0_specification.md
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF681_Communication_Management_API_v4.0.0_specification\TMF681_Communication_Management_API_v4.0.0_specification.pdf
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF686_Topology_Management_API_v4.0.0_beta_specification\0.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF686_Topology_Management_API_v4.0.0_beta_specification\1.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF686_Topology_Management_API_v4.0.0_beta_specification\10.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF686_Topology_Management_API_v4.0.0_beta_specification\11.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF686_Topology_Management_API_v4.0.0_beta_specification\12.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF686_Topology_Management_API_v4.0.0_beta_specification\13.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF686_Topology_Management_API_v4.0.0_beta_specification\2.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF686_Topology_Management_API_v4.0.0_beta_specification\3.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF686_Topology_Management_API_v4.0.0_beta_specification\4.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF686_Topology_Management_API_v4.0.0_beta_specification\5.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF686_Topology_Management_API_v4.0.0_beta_specification\6.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF686_Topology_Management_API_v4.0.0_beta_specification\7.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF686_Topology_Management_API_v4.0.0_beta_specification\8.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF686_Topology_Management_API_v4.0.0_beta_specification\9.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF686_Topology_Management_API_v4.0.0_beta_specification\TMF686_Topology_Management_API_v4.0.0_beta_specification.html
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF686_Topology_Management_API_v4.0.0_beta_specification\TMF686_Topology_Management_API_v4.0.0_beta_specification.md
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF686_Topology_Management_API_v4.0.0_beta_specification\TMF686_Topology_Management_API_v4.0.0_beta_specification.pdf
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF688_Event_Management_API_v4.0.0_beta_specification\0.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF688_Event_Management_API_v4.0.0_beta_specification\1.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF688_Event_Management_API_v4.0.0_beta_specification\2.jpg
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF688_Event_Management_API_v4.0.0_beta_specification\3.jpg
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF688_Event_Management_API_v4.0.0_beta_specification\4.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF688_Event_Management_API_v4.0.0_beta_specification\5.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF688_Event_Management_API_v4.0.0_beta_specification\6.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF688_Event_Management_API_v4.0.0_beta_specification\7.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF688_Event_Management_API_v4.0.0_beta_specification\8.jpg
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF688_Event_Management_API_v4.0.0_beta_specification\TMF688_Event_Management_API_v4.0.0_beta_specification.html
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF688_Event_Management_API_v4.0.0_beta_specification\TMF688_Event_Management_API_v4.0.0_beta_specification.md
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF688_Event_Management_API_v4.0.0_beta_specification\TMF688_Event_Management_API_v4.0.0_beta_specification.pdf
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF691_Federated_ID_v5.0.0_specification\0.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF691_Federated_ID_v5.0.0_specification\1.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF691_Federated_ID_v5.0.0_specification\2.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF691_Federated_ID_v5.0.0_specification\3.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF691_Federated_ID_v5.0.0_specification\4.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF691_Federated_ID_v5.0.0_specification\5.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF691_Federated_ID_v5.0.0_specification\6.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF691_Federated_ID_v5.0.0_specification\TMF691_Federated_ID_v5.0.0_specification.html
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF691_Federated_ID_v5.0.0_specification\TMF691_Federated_ID_v5.0.0_specification.md
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF691_Federated_ID_v5.0.0_specification\TMF691_Federated_ID_v5.0.0_specification.pdf
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF701_Process_v5.0_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF701_Process_v5.0_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF701_Process_v5.0_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF701_Process_v5.0_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF701_Process_v5.0_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF701_Process_v5.0_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF701_Process_v5.0_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF701_Process_v5.0_userguide\7.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF701_Process_v5.0_userguide\8.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF701_Process_v5.0_userguide\TMF701_Process_v5.0_userguide.html
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF701_Process_v5.0_userguide\TMF701_Process_v5.0_userguide.md
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF701_Process_v5.0_userguide\TMF701_Process_v5.0_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF703_Entity_Inventory_Management_API_v4.0.0_beta_specification\0.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF703_Entity_Inventory_Management_API_v4.0.0_beta_specification\1.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF703_Entity_Inventory_Management_API_v4.0.0_beta_specification\2.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF703_Entity_Inventory_Management_API_v4.0.0_beta_specification\3.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF703_Entity_Inventory_Management_API_v4.0.0_beta_specification\4.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF703_Entity_Inventory_Management_API_v4.0.0_beta_specification\5.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF703_Entity_Inventory_Management_API_v4.0.0_beta_specification\6.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF703_Entity_Inventory_Management_API_v4.0.0_beta_specification\TMF703_Entity_Inventory_Management_API_v4.0.0_beta_specification.html
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF703_Entity_Inventory_Management_API_v4.0.0_beta_specification\TMF703_Entity_Inventory_Management_API_v4.0.0_beta_specification.md
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF703_Entity_Inventory_Management_API_v4.0.0_beta_specification\TMF703_Entity_Inventory_Management_API_v4.0.0_beta_specification.pdf
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF704_Test_Case_Management_API_v4.0.0_specification\0.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF704_Test_Case_Management_API_v4.0.0_specification\1.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF704_Test_Case_Management_API_v4.0.0_specification\2.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF704_Test_Case_Management_API_v4.0.0_specification\3.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF704_Test_Case_Management_API_v4.0.0_specification\4.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF704_Test_Case_Management_API_v4.0.0_specification\5.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF704_Test_Case_Management_API_v4.0.0_specification\TMF704_Test_Case_Management_API_v4.0.0_specification.html
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF704_Test_Case_Management_API_v4.0.0_specification\TMF704_Test_Case_Management_API_v4.0.0_specification.md
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF704_Test_Case_Management_API_v4.0.0_specification\TMF704_Test_Case_Management_API_v4.0.0_specification.pdf
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF705_Test_Environment_Management_API_v4.0.0_specification\0.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF705_Test_Environment_Management_API_v4.0.0_specification\1.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF705_Test_Environment_Management_API_v4.0.0_specification\2.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF705_Test_Environment_Management_API_v4.0.0_specification\3.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF705_Test_Environment_Management_API_v4.0.0_specification\4.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF705_Test_Environment_Management_API_v4.0.0_specification\5.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF705_Test_Environment_Management_API_v4.0.0_specification\6.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF705_Test_Environment_Management_API_v4.0.0_specification\TMF705_Test_Environment_Management_API_v4.0.0_specification.html
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF705_Test_Environment_Management_API_v4.0.0_specification\TMF705_Test_Environment_Management_API_v4.0.0_specification.md
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF705_Test_Environment_Management_API_v4.0.0_specification\TMF705_Test_Environment_Management_API_v4.0.0_specification.pdf
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF706_Test_Data_Management_API_v4.0.0_specification\0.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF706_Test_Data_Management_API_v4.0.0_specification\1.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF706_Test_Data_Management_API_v4.0.0_specification\2.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF706_Test_Data_Management_API_v4.0.0_specification\3.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF706_Test_Data_Management_API_v4.0.0_specification\4.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF706_Test_Data_Management_API_v4.0.0_specification\TMF706_Test_Data_Management_API_v4.0.0_specification.html
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF706_Test_Data_Management_API_v4.0.0_specification\TMF706_Test_Data_Management_API_v4.0.0_specification.md
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF706_Test_Data_Management_API_v4.0.0_specification\TMF706_Test_Data_Management_API_v4.0.0_specification.pdf
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF707_Test_Result_Management_API_v4.0.0_specification\0.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF707_Test_Result_Management_API_v4.0.0_specification\1.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF707_Test_Result_Management_API_v4.0.0_specification\2.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF707_Test_Result_Management_API_v4.0.0_specification\3.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF707_Test_Result_Management_API_v4.0.0_specification\4.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF707_Test_Result_Management_API_v4.0.0_specification\5.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF707_Test_Result_Management_API_v4.0.0_specification\TMF707_Test_Result_Management_API_v4.0.0_specification.html
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF707_Test_Result_Management_API_v4.0.0_specification\TMF707_Test_Result_Management_API_v4.0.0_specification.md
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF707_Test_Result_Management_API_v4.0.0_specification\TMF707_Test_Result_Management_API_v4.0.0_specification.pdf
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF708_Test_Execution_Management_API_v4.0.0_specification\0.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF708_Test_Execution_Management_API_v4.0.0_specification\1.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF708_Test_Execution_Management_API_v4.0.0_specification\2.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF708_Test_Execution_Management_API_v4.0.0_specification\3.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF708_Test_Execution_Management_API_v4.0.0_specification\4.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF708_Test_Execution_Management_API_v4.0.0_specification\5.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF708_Test_Execution_Management_API_v4.0.0_specification\6.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF708_Test_Execution_Management_API_v4.0.0_specification\7.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF708_Test_Execution_Management_API_v4.0.0_specification\TMF708_Test_Execution_Management_API_v4.0.0_specification.html
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF708_Test_Execution_Management_API_v4.0.0_specification\TMF708_Test_Execution_Management_API_v4.0.0_specification.md
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF708_Test_Execution_Management_API_v4.0.0_specification\TMF708_Test_Execution_Management_API_v4.0.0_specification.pdf
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF709_Test_Scenario_Management_API_v4.0.0_specification\0.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF709_Test_Scenario_Management_API_v4.0.0_specification\1.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF709_Test_Scenario_Management_API_v4.0.0_specification\2.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF709_Test_Scenario_Management_API_v4.0.0_specification\3.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF709_Test_Scenario_Management_API_v4.0.0_specification\TMF709_Test_Scenario_Management_API_v4.0.0_specification.html
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF709_Test_Scenario_Management_API_v4.0.0_specification\TMF709_Test_Scenario_Management_API_v4.0.0_specification.md
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF709_Test_Scenario_Management_API_v4.0.0_specification\TMF709_Test_Scenario_Management_API_v4.0.0_specification.pdf
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF710_General_Test_Artifact_Management_API_v4.0.0_specification\0.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF710_General_Test_Artifact_Management_API_v4.0.0_specification\1.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF710_General_Test_Artifact_Management_API_v4.0.0_specification\2.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF710_General_Test_Artifact_Management_API_v4.0.0_specification\3.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF710_General_Test_Artifact_Management_API_v4.0.0_specification\TMF710_General_Test_Artifact_Management_API_v4.0.0_specification.html
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF710_General_Test_Artifact_Management_API_v4.0.0_specification\TMF710_General_Test_Artifact_Management_API_v4.0.0_specification.md
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF710_General_Test_Artifact_Management_API_v4.0.0_specification\TMF710_General_Test_Artifact_Management_API_v4.0.0_specification.pdf
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF720_Digital_Identity_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF720_Digital_Identity_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF720_Digital_Identity_userguide\10.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF720_Digital_Identity_userguide\11.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF720_Digital_Identity_userguide\12.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF720_Digital_Identity_userguide\13.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF720_Digital_Identity_userguide\14.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF720_Digital_Identity_userguide\15.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF720_Digital_Identity_userguide\16.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF720_Digital_Identity_userguide\17.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF720_Digital_Identity_userguide\18.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF720_Digital_Identity_userguide\19.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF720_Digital_Identity_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF720_Digital_Identity_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF720_Digital_Identity_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF720_Digital_Identity_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF720_Digital_Identity_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF720_Digital_Identity_userguide\7.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF720_Digital_Identity_userguide\8.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF720_Digital_Identity_userguide\9.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF720_Digital_Identity_userguide\TMF720_Digital_Identity_userguide.html
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF720_Digital_Identity_userguide\TMF720_Digital_Identity_userguide.md
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF720_Digital_Identity_userguide\TMF720_Digital_Identity_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF724_Incident_Management_API_v4.0.0_specification\0.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF724_Incident_Management_API_v4.0.0_specification\1.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF724_Incident_Management_API_v4.0.0_specification\2.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF724_Incident_Management_API_v4.0.0_specification\3.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF724_Incident_Management_API_v4.0.0_specification\4.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF724_Incident_Management_API_v4.0.0_specification\5.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF724_Incident_Management_API_v4.0.0_specification\6.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF724_Incident_Management_API_v4.0.0_specification\TMF724_Incident_Management_API_v4.0.0_specification.html
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF724_Incident_Management_API_v4.0.0_specification\TMF724_Incident_Management_API_v4.0.0_specification.md
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF724_Incident_Management_API_v4.0.0_specification\TMF724_Incident_Management_API_v4.0.0_specification.pdf
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF728_Dunning_v5.0_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF728_Dunning_v5.0_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF728_Dunning_v5.0_userguide\10.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF728_Dunning_v5.0_userguide\11.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF728_Dunning_v5.0_userguide\12.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF728_Dunning_v5.0_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF728_Dunning_v5.0_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF728_Dunning_v5.0_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF728_Dunning_v5.0_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF728_Dunning_v5.0_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF728_Dunning_v5.0_userguide\7.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF728_Dunning_v5.0_userguide\8.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF728_Dunning_v5.0_userguide\9.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF728_Dunning_v5.0_userguide\TMF728_Dunning_v5.0_userguide.html
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF728_Dunning_v5.0_userguide\TMF728_Dunning_v5.0_userguide.md
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF728_Dunning_v5.0_userguide\TMF728_Dunning_v5.0_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF735_CDR_Transactions_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF735_CDR_Transactions_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF735_CDR_Transactions_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF735_CDR_Transactions_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF735_CDR_Transactions_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF735_CDR_Transactions_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF735_CDR_Transactions_userguide\TMF735_CDR_Transactions_userguide.html
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF735_CDR_Transactions_userguide\TMF735_CDR_Transactions_userguide.md
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF735_CDR_Transactions_userguide\TMF735_CDR_Transactions_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF764_Cost_Management_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF764_Cost_Management_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF764_Cost_Management_userguide\10.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF764_Cost_Management_userguide\11.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF764_Cost_Management_userguide\12.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF764_Cost_Management_userguide\13.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF764_Cost_Management_userguide\14.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF764_Cost_Management_userguide\2.jpg
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF764_Cost_Management_userguide\3.jpg
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF764_Cost_Management_userguide\4.jpg
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF764_Cost_Management_userguide\5.jpg
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF764_Cost_Management_userguide\6.jpg
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF764_Cost_Management_userguide\7.jpg
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF764_Cost_Management_userguide\8.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF764_Cost_Management_userguide\9.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF764_Cost_Management_userguide\TMF764_Cost_Management_userguide.html
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF764_Cost_Management_userguide\TMF764_Cost_Management_userguide.md
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF764_Cost_Management_userguide\TMF764_Cost_Management_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF910_Self_Care_API_Component_Suite_user_guides_18.0.1\0.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF910_Self_Care_API_Component_Suite_user_guides_18.0.1\1.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF910_Self_Care_API_Component_Suite_user_guides_18.0.1\2.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF910_Self_Care_API_Component_Suite_user_guides_18.0.1\3.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF910_Self_Care_API_Component_Suite_user_guides_18.0.1\4.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF910_Self_Care_API_Component_Suite_user_guides_18.0.1\TMF910_Self_Care_API_Component_Suite_user_guides_18.0.1.html
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF910_Self_Care_API_Component_Suite_user_guides_18.0.1\TMF910_Self_Care_API_Component_Suite_user_guides_18.0.1.md
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF910_Self_Care_API_Component_Suite_user_guides_18.0.1\TMF910_Self_Care_API_Component_Suite_user_guides_18.0.1.pdf
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF915_AI_Management_API_v4.0.0_specification\0.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF915_AI_Management_API_v4.0.0_specification\1.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF915_AI_Management_API_v4.0.0_specification\10.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF915_AI_Management_API_v4.0.0_specification\11.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF915_AI_Management_API_v4.0.0_specification\12.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF915_AI_Management_API_v4.0.0_specification\13.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF915_AI_Management_API_v4.0.0_specification\14.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF915_AI_Management_API_v4.0.0_specification\15.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF915_AI_Management_API_v4.0.0_specification\16.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF915_AI_Management_API_v4.0.0_specification\17.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF915_AI_Management_API_v4.0.0_specification\18.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF915_AI_Management_API_v4.0.0_specification\19.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF915_AI_Management_API_v4.0.0_specification\2.jpg
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF915_AI_Management_API_v4.0.0_specification\20.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF915_AI_Management_API_v4.0.0_specification\21.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF915_AI_Management_API_v4.0.0_specification\22.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF915_AI_Management_API_v4.0.0_specification\23.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF915_AI_Management_API_v4.0.0_specification\3.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF915_AI_Management_API_v4.0.0_specification\4.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF915_AI_Management_API_v4.0.0_specification\5.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF915_AI_Management_API_v4.0.0_specification\6.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF915_AI_Management_API_v4.0.0_specification\7.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF915_AI_Management_API_v4.0.0_specification\8.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF915_AI_Management_API_v4.0.0_specification\9.jpg
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF915_AI_Management_API_v4.0.0_specification\TMF915_AI_Management_API_v4.0.0_specification.html
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF915_AI_Management_API_v4.0.0_specification\TMF915_AI_Management_API_v4.0.0_specification.md
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF915_AI_Management_API_v4.0.0_specification\TMF915_AI_Management_API_v4.0.0_specification.pdf
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF921_Intent_Management_v5.0.0_specification\0.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF921_Intent_Management_v5.0.0_specification\1.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF921_Intent_Management_v5.0.0_specification\2.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF921_Intent_Management_v5.0.0_specification\3.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF921_Intent_Management_v5.0.0_specification\4.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF921_Intent_Management_v5.0.0_specification\5.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF921_Intent_Management_v5.0.0_specification\6.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF921_Intent_Management_v5.0.0_specification\7.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF921_Intent_Management_v5.0.0_specification\8.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF921_Intent_Management_v5.0.0_specification\TMF921_Intent_Management_v5.0.0_specification.html
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF921_Intent_Management_v5.0.0_specification\TMF921_Intent_Management_v5.0.0_specification.md
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF921_Intent_Management_v5.0.0_specification\TMF921_Intent_Management_v5.0.0_specification.pdf
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\0.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\1.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\10.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\11.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\12.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\13.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\14.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\15.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\16.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\17.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\18.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\19.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\2.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\20.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\21.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\22.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\23.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\24.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\25.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\26.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\27.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\28.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\29.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\3.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\30.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\31.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\32.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\33.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\34.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\35.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\36.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\37.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\38.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\39.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\4.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\40.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\41.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\42.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\43.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\5.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\6.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\7.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\8.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\9.png
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1.html
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1.md
+D:\TMF\영문 MD\TMF Open API\Common APIs (35)\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1\TMF931_Open_Gateway_Operate_API_Onboarding_and_Ordering_userguide-v5.2.1.pdf
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF622_Product_Ordering_userguide
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF629_Customer_userguide
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF646_Appointment_v5.0_userguide
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF648_Quote_v5.0_userguide
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF654_Prepay_Balance_Management_API_v4.0.0_specification
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF663_Shopping_Cart_userguide
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF670_Payment_Method_Management_API_v4.1.0_beta_specification
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF676_Payment_Management_API_v4.0.0_specification
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF678_Customer_Bill_userguide
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF680_Recommendation_Management_API_v4.0.0_specification
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF696_Risk_Management_v5.0.0
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF717_Customer360_v5.0_userguide
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF760_Product_Configuration_userguide
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF770_Fraud_Management_v5.0_userguide
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF622_Product_Ordering_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF622_Product_Ordering_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF622_Product_Ordering_userguide\10.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF622_Product_Ordering_userguide\11.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF622_Product_Ordering_userguide\12.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF622_Product_Ordering_userguide\13.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF622_Product_Ordering_userguide\14.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF622_Product_Ordering_userguide\15.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF622_Product_Ordering_userguide\16.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF622_Product_Ordering_userguide\17.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF622_Product_Ordering_userguide\18.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF622_Product_Ordering_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF622_Product_Ordering_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF622_Product_Ordering_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF622_Product_Ordering_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF622_Product_Ordering_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF622_Product_Ordering_userguide\7.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF622_Product_Ordering_userguide\8.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF622_Product_Ordering_userguide\9.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF622_Product_Ordering_userguide\TMF622_Product_Ordering_userguide.html
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF622_Product_Ordering_userguide\TMF622_Product_Ordering_userguide.md
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF622_Product_Ordering_userguide\TMF622_Product_Ordering_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF629_Customer_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF629_Customer_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF629_Customer_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF629_Customer_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF629_Customer_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF629_Customer_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF629_Customer_userguide\TMF629_Customer_userguide.html
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF629_Customer_userguide\TMF629_Customer_userguide.md
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF629_Customer_userguide\TMF629_Customer_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF646_Appointment_v5.0_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF646_Appointment_v5.0_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF646_Appointment_v5.0_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF646_Appointment_v5.0_userguide\TMF646_Appointment_v5.0_userguide.html
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF646_Appointment_v5.0_userguide\TMF646_Appointment_v5.0_userguide.md
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF646_Appointment_v5.0_userguide\TMF646_Appointment_v5.0_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF648_Quote_v5.0_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF648_Quote_v5.0_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF648_Quote_v5.0_userguide\10.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF648_Quote_v5.0_userguide\11.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF648_Quote_v5.0_userguide\12.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF648_Quote_v5.0_userguide\13.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF648_Quote_v5.0_userguide\14.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF648_Quote_v5.0_userguide\15.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF648_Quote_v5.0_userguide\16.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF648_Quote_v5.0_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF648_Quote_v5.0_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF648_Quote_v5.0_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF648_Quote_v5.0_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF648_Quote_v5.0_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF648_Quote_v5.0_userguide\7.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF648_Quote_v5.0_userguide\8.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF648_Quote_v5.0_userguide\9.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF648_Quote_v5.0_userguide\TMF648_Quote_v5.0_userguide.html
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF648_Quote_v5.0_userguide\TMF648_Quote_v5.0_userguide.md
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF648_Quote_v5.0_userguide\TMF648_Quote_v5.0_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF654_Prepay_Balance_Management_API_v4.0.0_specification\0.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF654_Prepay_Balance_Management_API_v4.0.0_specification\1.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF654_Prepay_Balance_Management_API_v4.0.0_specification\10.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF654_Prepay_Balance_Management_API_v4.0.0_specification\11.jpg
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF654_Prepay_Balance_Management_API_v4.0.0_specification\2.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF654_Prepay_Balance_Management_API_v4.0.0_specification\3.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF654_Prepay_Balance_Management_API_v4.0.0_specification\4.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF654_Prepay_Balance_Management_API_v4.0.0_specification\5.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF654_Prepay_Balance_Management_API_v4.0.0_specification\6.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF654_Prepay_Balance_Management_API_v4.0.0_specification\7.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF654_Prepay_Balance_Management_API_v4.0.0_specification\8.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF654_Prepay_Balance_Management_API_v4.0.0_specification\9.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF654_Prepay_Balance_Management_API_v4.0.0_specification\TMF654_Prepay_Balance_Management_API_v4.0.0_specification.html
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF654_Prepay_Balance_Management_API_v4.0.0_specification\TMF654_Prepay_Balance_Management_API_v4.0.0_specification.md
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF654_Prepay_Balance_Management_API_v4.0.0_specification\TMF654_Prepay_Balance_Management_API_v4.0.0_specification.pdf
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF663_Shopping_Cart_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF663_Shopping_Cart_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF663_Shopping_Cart_userguide\10.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF663_Shopping_Cart_userguide\11.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF663_Shopping_Cart_userguide\12.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF663_Shopping_Cart_userguide\13.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF663_Shopping_Cart_userguide\14.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF663_Shopping_Cart_userguide\15.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF663_Shopping_Cart_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF663_Shopping_Cart_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF663_Shopping_Cart_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF663_Shopping_Cart_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF663_Shopping_Cart_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF663_Shopping_Cart_userguide\7.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF663_Shopping_Cart_userguide\8.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF663_Shopping_Cart_userguide\9.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF663_Shopping_Cart_userguide\TMF663_Shopping_Cart_userguide.html
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF663_Shopping_Cart_userguide\TMF663_Shopping_Cart_userguide.md
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF663_Shopping_Cart_userguide\TMF663_Shopping_Cart_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF670_Payment_Method_Management_API_v4.1.0_beta_specification\0.jpg
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF670_Payment_Method_Management_API_v4.1.0_beta_specification\1.jpg
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF670_Payment_Method_Management_API_v4.1.0_beta_specification\2.jpg
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF670_Payment_Method_Management_API_v4.1.0_beta_specification\3.jpg
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF670_Payment_Method_Management_API_v4.1.0_beta_specification\4.jpg
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF670_Payment_Method_Management_API_v4.1.0_beta_specification\5.jpg
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF670_Payment_Method_Management_API_v4.1.0_beta_specification\TMF670_Payment_Method_Management_API_v4.1.0_beta_specification.html
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF670_Payment_Method_Management_API_v4.1.0_beta_specification\TMF670_Payment_Method_Management_API_v4.1.0_beta_specification.md
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF670_Payment_Method_Management_API_v4.1.0_beta_specification\TMF670_Payment_Method_Management_API_v4.1.0_beta_specification.pdf
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF676_Payment_Management_API_v4.0.0_specification\0.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF676_Payment_Management_API_v4.0.0_specification\1.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF676_Payment_Management_API_v4.0.0_specification\2.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF676_Payment_Management_API_v4.0.0_specification\3.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF676_Payment_Management_API_v4.0.0_specification\4.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF676_Payment_Management_API_v4.0.0_specification\TMF676_Payment_Management_API_v4.0.0_specification.html
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF676_Payment_Management_API_v4.0.0_specification\TMF676_Payment_Management_API_v4.0.0_specification.md
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF676_Payment_Management_API_v4.0.0_specification\TMF676_Payment_Management_API_v4.0.0_specification.pdf
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF678_Customer_Bill_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF678_Customer_Bill_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF678_Customer_Bill_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF678_Customer_Bill_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF678_Customer_Bill_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF678_Customer_Bill_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF678_Customer_Bill_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF678_Customer_Bill_userguide\7.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF678_Customer_Bill_userguide\TMF678_Customer_Bill_userguide.html
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF678_Customer_Bill_userguide\TMF678_Customer_Bill_userguide.md
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF678_Customer_Bill_userguide\TMF678_Customer_Bill_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF680_Recommendation_Management_API_v4.0.0_specification\0.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF680_Recommendation_Management_API_v4.0.0_specification\1.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF680_Recommendation_Management_API_v4.0.0_specification\2.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF680_Recommendation_Management_API_v4.0.0_specification\3.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF680_Recommendation_Management_API_v4.0.0_specification\4.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF680_Recommendation_Management_API_v4.0.0_specification\5.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF680_Recommendation_Management_API_v4.0.0_specification\6.jpg
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF680_Recommendation_Management_API_v4.0.0_specification\7.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF680_Recommendation_Management_API_v4.0.0_specification\TMF680_Recommendation_Management_API_v4.0.0_specification.html
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF680_Recommendation_Management_API_v4.0.0_specification\TMF680_Recommendation_Management_API_v4.0.0_specification.md
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF680_Recommendation_Management_API_v4.0.0_specification\TMF680_Recommendation_Management_API_v4.0.0_specification.pdf
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF696_Risk_Management_v5.0.0\0.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF696_Risk_Management_v5.0.0\1.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF696_Risk_Management_v5.0.0\10.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF696_Risk_Management_v5.0.0\11.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF696_Risk_Management_v5.0.0\12.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF696_Risk_Management_v5.0.0\13.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF696_Risk_Management_v5.0.0\2.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF696_Risk_Management_v5.0.0\3.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF696_Risk_Management_v5.0.0\4.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF696_Risk_Management_v5.0.0\5.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF696_Risk_Management_v5.0.0\6.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF696_Risk_Management_v5.0.0\7.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF696_Risk_Management_v5.0.0\8.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF696_Risk_Management_v5.0.0\9.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF696_Risk_Management_v5.0.0\TMF696_Risk_Management_v5.0.0.html
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF696_Risk_Management_v5.0.0\TMF696_Risk_Management_v5.0.0.md
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF696_Risk_Management_v5.0.0\TMF696_Risk_Management_v5.0.0.pdf
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF717_Customer360_v5.0_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF717_Customer360_v5.0_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF717_Customer360_v5.0_userguide\TMF717_Customer360_v5.0_userguide.html
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF717_Customer360_v5.0_userguide\TMF717_Customer360_v5.0_userguide.md
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF717_Customer360_v5.0_userguide\TMF717_Customer360_v5.0_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF760_Product_Configuration_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF760_Product_Configuration_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF760_Product_Configuration_userguide\10.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF760_Product_Configuration_userguide\11.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF760_Product_Configuration_userguide\12.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF760_Product_Configuration_userguide\13.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF760_Product_Configuration_userguide\14.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF760_Product_Configuration_userguide\15.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF760_Product_Configuration_userguide\16.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF760_Product_Configuration_userguide\17.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF760_Product_Configuration_userguide\18.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF760_Product_Configuration_userguide\19.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF760_Product_Configuration_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF760_Product_Configuration_userguide\20.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF760_Product_Configuration_userguide\21.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF760_Product_Configuration_userguide\22.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF760_Product_Configuration_userguide\23.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF760_Product_Configuration_userguide\24.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF760_Product_Configuration_userguide\25.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF760_Product_Configuration_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF760_Product_Configuration_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF760_Product_Configuration_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF760_Product_Configuration_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF760_Product_Configuration_userguide\7.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF760_Product_Configuration_userguide\8.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF760_Product_Configuration_userguide\9.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF760_Product_Configuration_userguide\TMF760_Product_Configuration_userguide.html
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF760_Product_Configuration_userguide\TMF760_Product_Configuration_userguide.md
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF760_Product_Configuration_userguide\TMF760_Product_Configuration_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF770_Fraud_Management_v5.0_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF770_Fraud_Management_v5.0_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF770_Fraud_Management_v5.0_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF770_Fraud_Management_v5.0_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF770_Fraud_Management_v5.0_userguide\TMF770_Fraud_Management_v5.0_userguide.html
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF770_Fraud_Management_v5.0_userguide\TMF770_Fraud_Management_v5.0_userguide.md
+D:\TMF\영문 MD\TMF Open API\Customer APIs (14)\TMF770_Fraud_Management_v5.0_userguide\TMF770_Fraud_Management_v5.0_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Marketing Sales APIs (1)\TMF699_Sales_v5.0_userguide
+D:\TMF\영문 MD\TMF Open API\Marketing Sales APIs (1)\TMF699_Sales_v5.0_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Marketing Sales APIs (1)\TMF699_Sales_v5.0_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Marketing Sales APIs (1)\TMF699_Sales_v5.0_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Marketing Sales APIs (1)\TMF699_Sales_v5.0_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Marketing Sales APIs (1)\TMF699_Sales_v5.0_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Marketing Sales APIs (1)\TMF699_Sales_v5.0_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Marketing Sales APIs (1)\TMF699_Sales_v5.0_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Marketing Sales APIs (1)\TMF699_Sales_v5.0_userguide\TMF699_Sales_v5.0_userguide.html
+D:\TMF\영문 MD\TMF Open API\Marketing Sales APIs (1)\TMF699_Sales_v5.0_userguide\TMF699_Sales_v5.0_userguide.md
+D:\TMF\영문 MD\TMF Open API\Marketing Sales APIs (1)\TMF699_Sales_v5.0_userguide\TMF699_Sales_v5.0_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF620_Product_Catalog_userguide
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF635_Product_Usage_v5.0_userguide
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF637_Product_Inventory_userguide
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF671_Promotion_userguide
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF677_Usage_Consumption_v5.1_userguide
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF679_ProductOfferingQualification_v5.0.0
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF767_Product_Usage_Catalog_v5.0_userguide
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF936_Operate_Product_Catalog_userguide
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF937_Open_Gateway_Product_Usage_v5.0_userguide
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF620_Product_Catalog_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF620_Product_Catalog_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF620_Product_Catalog_userguide\10.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF620_Product_Catalog_userguide\11.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF620_Product_Catalog_userguide\12.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF620_Product_Catalog_userguide\13.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF620_Product_Catalog_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF620_Product_Catalog_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF620_Product_Catalog_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF620_Product_Catalog_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF620_Product_Catalog_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF620_Product_Catalog_userguide\7.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF620_Product_Catalog_userguide\8.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF620_Product_Catalog_userguide\9.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF620_Product_Catalog_userguide\TMF620_Product_Catalog_userguide.html
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF620_Product_Catalog_userguide\TMF620_Product_Catalog_userguide.md
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF620_Product_Catalog_userguide\TMF620_Product_Catalog_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF635_Product_Usage_v5.0_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF635_Product_Usage_v5.0_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF635_Product_Usage_v5.0_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF635_Product_Usage_v5.0_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF635_Product_Usage_v5.0_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF635_Product_Usage_v5.0_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF635_Product_Usage_v5.0_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF635_Product_Usage_v5.0_userguide\7.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF635_Product_Usage_v5.0_userguide\8.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF635_Product_Usage_v5.0_userguide\9.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF635_Product_Usage_v5.0_userguide\TMF635_Product_Usage_v5.0_userguide.html
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF635_Product_Usage_v5.0_userguide\TMF635_Product_Usage_v5.0_userguide.md
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF635_Product_Usage_v5.0_userguide\TMF635_Product_Usage_v5.0_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF637_Product_Inventory_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF637_Product_Inventory_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF637_Product_Inventory_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF637_Product_Inventory_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF637_Product_Inventory_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF637_Product_Inventory_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF637_Product_Inventory_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF637_Product_Inventory_userguide\TMF637_Product_Inventory_userguide.html
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF637_Product_Inventory_userguide\TMF637_Product_Inventory_userguide.md
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF637_Product_Inventory_userguide\TMF637_Product_Inventory_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\10.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\11.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\12.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\13.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\14.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\15.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\16.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\17.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\18.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\19.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\20.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\21.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\22.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\23.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\24.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\25.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\26.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\27.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\28.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\29.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\7.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\8.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\9.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\TMF658_Loyalty_userguide.html
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\TMF658_Loyalty_userguide.md
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF658_Loyalty_userguide\TMF658_Loyalty_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF671_Promotion_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF671_Promotion_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF671_Promotion_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF671_Promotion_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF671_Promotion_userguide\TMF671_Promotion_userguide.html
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF671_Promotion_userguide\TMF671_Promotion_userguide.md
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF671_Promotion_userguide\TMF671_Promotion_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF677_Usage_Consumption_v5.1_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF677_Usage_Consumption_v5.1_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF677_Usage_Consumption_v5.1_userguide\10.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF677_Usage_Consumption_v5.1_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF677_Usage_Consumption_v5.1_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF677_Usage_Consumption_v5.1_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF677_Usage_Consumption_v5.1_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF677_Usage_Consumption_v5.1_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF677_Usage_Consumption_v5.1_userguide\7.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF677_Usage_Consumption_v5.1_userguide\8.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF677_Usage_Consumption_v5.1_userguide\9.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF677_Usage_Consumption_v5.1_userguide\TMF677_Usage_Consumption_v5.1_userguide.html
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF677_Usage_Consumption_v5.1_userguide\TMF677_Usage_Consumption_v5.1_userguide.md
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF677_Usage_Consumption_v5.1_userguide\TMF677_Usage_Consumption_v5.1_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF679_ProductOfferingQualification_v5.0.0\0.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF679_ProductOfferingQualification_v5.0.0\1.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF679_ProductOfferingQualification_v5.0.0\2.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF679_ProductOfferingQualification_v5.0.0\3.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF679_ProductOfferingQualification_v5.0.0\4.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF679_ProductOfferingQualification_v5.0.0\5.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF679_ProductOfferingQualification_v5.0.0\6.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF679_ProductOfferingQualification_v5.0.0\7.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF679_ProductOfferingQualification_v5.0.0\TMF679_ProductOfferingQualification_v5.0.0.html
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF679_ProductOfferingQualification_v5.0.0\TMF679_ProductOfferingQualification_v5.0.0.md
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF679_ProductOfferingQualification_v5.0.0\TMF679_ProductOfferingQualification_v5.0.0.pdf
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF767_Product_Usage_Catalog_v5.0_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF767_Product_Usage_Catalog_v5.0_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF767_Product_Usage_Catalog_v5.0_userguide\10.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF767_Product_Usage_Catalog_v5.0_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF767_Product_Usage_Catalog_v5.0_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF767_Product_Usage_Catalog_v5.0_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF767_Product_Usage_Catalog_v5.0_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF767_Product_Usage_Catalog_v5.0_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF767_Product_Usage_Catalog_v5.0_userguide\7.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF767_Product_Usage_Catalog_v5.0_userguide\8.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF767_Product_Usage_Catalog_v5.0_userguide\9.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF767_Product_Usage_Catalog_v5.0_userguide\TMF767_Product_Usage_Catalog_v5.0_userguide.html
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF767_Product_Usage_Catalog_v5.0_userguide\TMF767_Product_Usage_Catalog_v5.0_userguide.md
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF767_Product_Usage_Catalog_v5.0_userguide\TMF767_Product_Usage_Catalog_v5.0_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF936_Operate_Product_Catalog_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF936_Operate_Product_Catalog_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF936_Operate_Product_Catalog_userguide\10.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF936_Operate_Product_Catalog_userguide\11.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF936_Operate_Product_Catalog_userguide\12.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF936_Operate_Product_Catalog_userguide\13.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF936_Operate_Product_Catalog_userguide\14.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF936_Operate_Product_Catalog_userguide\15.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF936_Operate_Product_Catalog_userguide\16.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF936_Operate_Product_Catalog_userguide\17.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF936_Operate_Product_Catalog_userguide\18.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF936_Operate_Product_Catalog_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF936_Operate_Product_Catalog_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF936_Operate_Product_Catalog_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF936_Operate_Product_Catalog_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF936_Operate_Product_Catalog_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF936_Operate_Product_Catalog_userguide\7.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF936_Operate_Product_Catalog_userguide\8.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF936_Operate_Product_Catalog_userguide\9.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF936_Operate_Product_Catalog_userguide\TMF936_Operate_Product_Catalog_userguide.html
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF936_Operate_Product_Catalog_userguide\TMF936_Operate_Product_Catalog_userguide.md
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF936_Operate_Product_Catalog_userguide\TMF936_Operate_Product_Catalog_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF937_Open_Gateway_Product_Usage_v5.0_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF937_Open_Gateway_Product_Usage_v5.0_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF937_Open_Gateway_Product_Usage_v5.0_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF937_Open_Gateway_Product_Usage_v5.0_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF937_Open_Gateway_Product_Usage_v5.0_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF937_Open_Gateway_Product_Usage_v5.0_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF937_Open_Gateway_Product_Usage_v5.0_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF937_Open_Gateway_Product_Usage_v5.0_userguide\TMF937_Open_Gateway_Product_Usage_v5.0_userguide.html
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF937_Open_Gateway_Product_Usage_v5.0_userguide\TMF937_Open_Gateway_Product_Usage_v5.0_userguide.md
+D:\TMF\영문 MD\TMF Open API\Product APIs (10)\TMF937_Open_Gateway_Product_Usage_v5.0_userguide\TMF937_Open_Gateway_Product_Usage_v5.0_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF634_Resource_Catalog_userguide
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF639_Resource_Inventory_v5.0_userguide
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF642_Alarm_userguide
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF652_Resource_Order_v5.0_userguide
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF664_Resource_Function_Activation_v5.0_userguide
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF685_Resource_Pool_userguide
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF687_Stock_v5.0_userguide
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF689_Resource_Portability_v5.0_userguide
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF702_Resource_Activation_v5.0_userguide
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF716_Resource_Reservation_Management_API_v4.0.0_specification
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF730_Software_and_Compute_Management_API_v4.0.0_specification
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF759_Private_Optimized_Binding-v5.0.0
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF761_Resource_Qualification_v5.0_userguide
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF768_Resource_Role_userguide
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF771_Resource_Usage_userguide
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF908_IoT_Agent_and_Device_Management_API_v4.0.0_beta_specification
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF634_Resource_Catalog_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF634_Resource_Catalog_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF634_Resource_Catalog_userguide\10.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF634_Resource_Catalog_userguide\11.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF634_Resource_Catalog_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF634_Resource_Catalog_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF634_Resource_Catalog_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF634_Resource_Catalog_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF634_Resource_Catalog_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF634_Resource_Catalog_userguide\7.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF634_Resource_Catalog_userguide\8.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF634_Resource_Catalog_userguide\9.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF634_Resource_Catalog_userguide\TMF634_Resource_Catalog_userguide.html
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF634_Resource_Catalog_userguide\TMF634_Resource_Catalog_userguide.md
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF634_Resource_Catalog_userguide\TMF634_Resource_Catalog_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF639_Resource_Inventory_v5.0_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF639_Resource_Inventory_v5.0_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF639_Resource_Inventory_v5.0_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF639_Resource_Inventory_v5.0_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF639_Resource_Inventory_v5.0_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF639_Resource_Inventory_v5.0_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF639_Resource_Inventory_v5.0_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF639_Resource_Inventory_v5.0_userguide\7.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF639_Resource_Inventory_v5.0_userguide\8.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF639_Resource_Inventory_v5.0_userguide\TMF639_Resource_Inventory_v5.0_userguide.html
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF639_Resource_Inventory_v5.0_userguide\TMF639_Resource_Inventory_v5.0_userguide.md
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF639_Resource_Inventory_v5.0_userguide\TMF639_Resource_Inventory_v5.0_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF642_Alarm_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF642_Alarm_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF642_Alarm_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF642_Alarm_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF642_Alarm_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF642_Alarm_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF642_Alarm_userguide\TMF642_Alarm_userguide.html
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF642_Alarm_userguide\TMF642_Alarm_userguide.md
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF642_Alarm_userguide\TMF642_Alarm_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF652_Resource_Order_v5.0_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF652_Resource_Order_v5.0_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF652_Resource_Order_v5.0_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF652_Resource_Order_v5.0_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF652_Resource_Order_v5.0_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF652_Resource_Order_v5.0_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF652_Resource_Order_v5.0_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF652_Resource_Order_v5.0_userguide\7.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF652_Resource_Order_v5.0_userguide\8.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF652_Resource_Order_v5.0_userguide\TMF652_Resource_Order_v5.0_userguide.html
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF652_Resource_Order_v5.0_userguide\TMF652_Resource_Order_v5.0_userguide.md
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF652_Resource_Order_v5.0_userguide\TMF652_Resource_Order_v5.0_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF664_Resource_Function_Activation_v5.0_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF664_Resource_Function_Activation_v5.0_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF664_Resource_Function_Activation_v5.0_userguide\TMF664_Resource_Function_Activation_v5.0_userguide.html
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF664_Resource_Function_Activation_v5.0_userguide\TMF664_Resource_Function_Activation_v5.0_userguide.md
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF664_Resource_Function_Activation_v5.0_userguide\TMF664_Resource_Function_Activation_v5.0_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF685_Resource_Pool_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF685_Resource_Pool_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF685_Resource_Pool_userguide\10.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF685_Resource_Pool_userguide\11.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF685_Resource_Pool_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF685_Resource_Pool_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF685_Resource_Pool_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF685_Resource_Pool_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF685_Resource_Pool_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF685_Resource_Pool_userguide\7.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF685_Resource_Pool_userguide\8.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF685_Resource_Pool_userguide\9.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF685_Resource_Pool_userguide\TMF685_Resource_Pool_userguide.html
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF685_Resource_Pool_userguide\TMF685_Resource_Pool_userguide.md
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF685_Resource_Pool_userguide\TMF685_Resource_Pool_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF687_Stock_v5.0_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF687_Stock_v5.0_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF687_Stock_v5.0_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF687_Stock_v5.0_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF687_Stock_v5.0_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF687_Stock_v5.0_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF687_Stock_v5.0_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF687_Stock_v5.0_userguide\7.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF687_Stock_v5.0_userguide\TMF687_Stock_v5.0_userguide.html
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF687_Stock_v5.0_userguide\TMF687_Stock_v5.0_userguide.md
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF687_Stock_v5.0_userguide\TMF687_Stock_v5.0_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF689_Resource_Portability_v5.0_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF689_Resource_Portability_v5.0_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF689_Resource_Portability_v5.0_userguide\TMF689_Resource_Portability_v5.0_userguide.html
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF689_Resource_Portability_v5.0_userguide\TMF689_Resource_Portability_v5.0_userguide.md
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF689_Resource_Portability_v5.0_userguide\TMF689_Resource_Portability_v5.0_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF702_Resource_Activation_v5.0_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF702_Resource_Activation_v5.0_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF702_Resource_Activation_v5.0_userguide\TMF702_Resource_Activation_v5.0_userguide.html
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF702_Resource_Activation_v5.0_userguide\TMF702_Resource_Activation_v5.0_userguide.md
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF702_Resource_Activation_v5.0_userguide\TMF702_Resource_Activation_v5.0_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF716_Resource_Reservation_Management_API_v4.0.0_specification\0.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF716_Resource_Reservation_Management_API_v4.0.0_specification\1.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF716_Resource_Reservation_Management_API_v4.0.0_specification\2.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF716_Resource_Reservation_Management_API_v4.0.0_specification\3.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF716_Resource_Reservation_Management_API_v4.0.0_specification\4.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF716_Resource_Reservation_Management_API_v4.0.0_specification\TMF716_Resource_Reservation_Management_API_v4.0.0_specification.html
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF716_Resource_Reservation_Management_API_v4.0.0_specification\TMF716_Resource_Reservation_Management_API_v4.0.0_specification.md
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF716_Resource_Reservation_Management_API_v4.0.0_specification\TMF716_Resource_Reservation_Management_API_v4.0.0_specification.pdf
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF730_Software_and_Compute_Management_API_v4.0.0_specification\0.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF730_Software_and_Compute_Management_API_v4.0.0_specification\1.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF730_Software_and_Compute_Management_API_v4.0.0_specification\10.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF730_Software_and_Compute_Management_API_v4.0.0_specification\11.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF730_Software_and_Compute_Management_API_v4.0.0_specification\12.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF730_Software_and_Compute_Management_API_v4.0.0_specification\13.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF730_Software_and_Compute_Management_API_v4.0.0_specification\14.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF730_Software_and_Compute_Management_API_v4.0.0_specification\15.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF730_Software_and_Compute_Management_API_v4.0.0_specification\2.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF730_Software_and_Compute_Management_API_v4.0.0_specification\3.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF730_Software_and_Compute_Management_API_v4.0.0_specification\4.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF730_Software_and_Compute_Management_API_v4.0.0_specification\5.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF730_Software_and_Compute_Management_API_v4.0.0_specification\6.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF730_Software_and_Compute_Management_API_v4.0.0_specification\7.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF730_Software_and_Compute_Management_API_v4.0.0_specification\8.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF730_Software_and_Compute_Management_API_v4.0.0_specification\9.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF730_Software_and_Compute_Management_API_v4.0.0_specification\TMF730_Software_and_Compute_Management_API_v4.0.0_specification.html
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF730_Software_and_Compute_Management_API_v4.0.0_specification\TMF730_Software_and_Compute_Management_API_v4.0.0_specification.md
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF730_Software_and_Compute_Management_API_v4.0.0_specification\TMF730_Software_and_Compute_Management_API_v4.0.0_specification.pdf
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF759_Private_Optimized_Binding-v5.0.0\0.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF759_Private_Optimized_Binding-v5.0.0\1.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF759_Private_Optimized_Binding-v5.0.0\10.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF759_Private_Optimized_Binding-v5.0.0\11.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF759_Private_Optimized_Binding-v5.0.0\12.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF759_Private_Optimized_Binding-v5.0.0\2.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF759_Private_Optimized_Binding-v5.0.0\3.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF759_Private_Optimized_Binding-v5.0.0\4.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF759_Private_Optimized_Binding-v5.0.0\5.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF759_Private_Optimized_Binding-v5.0.0\6.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF759_Private_Optimized_Binding-v5.0.0\7.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF759_Private_Optimized_Binding-v5.0.0\8.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF759_Private_Optimized_Binding-v5.0.0\9.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF759_Private_Optimized_Binding-v5.0.0\TMF759_Private_Optimized_Binding-v5.0.0.html
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF759_Private_Optimized_Binding-v5.0.0\TMF759_Private_Optimized_Binding-v5.0.0.md
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF759_Private_Optimized_Binding-v5.0.0\TMF759_Private_Optimized_Binding-v5.0.0.pdf
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF761_Resource_Qualification_v5.0_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF761_Resource_Qualification_v5.0_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF761_Resource_Qualification_v5.0_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF761_Resource_Qualification_v5.0_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF761_Resource_Qualification_v5.0_userguide\TMF761_Resource_Qualification_v5.0_userguide.html
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF761_Resource_Qualification_v5.0_userguide\TMF761_Resource_Qualification_v5.0_userguide.md
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF761_Resource_Qualification_v5.0_userguide\TMF761_Resource_Qualification_v5.0_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF768_Resource_Role_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF768_Resource_Role_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF768_Resource_Role_userguide\10.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF768_Resource_Role_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF768_Resource_Role_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF768_Resource_Role_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF768_Resource_Role_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF768_Resource_Role_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF768_Resource_Role_userguide\7.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF768_Resource_Role_userguide\8.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF768_Resource_Role_userguide\9.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF768_Resource_Role_userguide\TMF768_Resource_Role_userguide.html
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF768_Resource_Role_userguide\TMF768_Resource_Role_userguide.md
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF768_Resource_Role_userguide\TMF768_Resource_Role_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF771_Resource_Usage_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF771_Resource_Usage_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF771_Resource_Usage_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF771_Resource_Usage_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF771_Resource_Usage_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF771_Resource_Usage_userguide\TMF771_Resource_Usage_userguide.html
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF771_Resource_Usage_userguide\TMF771_Resource_Usage_userguide.md
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF771_Resource_Usage_userguide\TMF771_Resource_Usage_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF908_IoT_Agent_and_Device_Management_API_v4.0.0_beta_specification\0.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF908_IoT_Agent_and_Device_Management_API_v4.0.0_beta_specification\1.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF908_IoT_Agent_and_Device_Management_API_v4.0.0_beta_specification\10.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF908_IoT_Agent_and_Device_Management_API_v4.0.0_beta_specification\2.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF908_IoT_Agent_and_Device_Management_API_v4.0.0_beta_specification\3.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF908_IoT_Agent_and_Device_Management_API_v4.0.0_beta_specification\4.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF908_IoT_Agent_and_Device_Management_API_v4.0.0_beta_specification\5.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF908_IoT_Agent_and_Device_Management_API_v4.0.0_beta_specification\6.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF908_IoT_Agent_and_Device_Management_API_v4.0.0_beta_specification\7.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF908_IoT_Agent_and_Device_Management_API_v4.0.0_beta_specification\8.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF908_IoT_Agent_and_Device_Management_API_v4.0.0_beta_specification\9.png
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF908_IoT_Agent_and_Device_Management_API_v4.0.0_beta_specification\TMF908_IoT_Agent_and_Device_Management_API_v4.0.0_beta_specification.html
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF908_IoT_Agent_and_Device_Management_API_v4.0.0_beta_specification\TMF908_IoT_Agent_and_Device_Management_API_v4.0.0_beta_specification.md
+D:\TMF\영문 MD\TMF Open API\Resource APIs (16)\TMF908_IoT_Agent_and_Device_Management_API_v4.0.0_beta_specification\TMF908_IoT_Agent_and_Device_Management_API_v4.0.0_beta_specification.pdf
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF633_Service_Catalog_Management_API_v4.0.0_specification
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF638_Service_Inventory_userguide
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF640-Service_Activation_and_Configuration-v5.0.0
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF641-ServiceOrdering-v5.0.0
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF645_Service_Qualification_v5.0_userguide
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF653_Service_Test_v5.0_userguide
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF656_Service_Problem_v5.1_userguide
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF657_Service_Quality_Management_Management_API_v4.0.0_specification
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF727_Service_Usage_userguide
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF777_Outage_Management_userguide
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF909_Network_as_a_Service_Management_API_v4.2.0_beta_specification
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF914_IoT_Service_Management_API_v4.0.0_beta_specification
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF924_DCS_5GSlice_Service_Activation_API.미존재
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF633_Service_Catalog_Management_API_v4.0.0_specification\0.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF633_Service_Catalog_Management_API_v4.0.0_specification\1.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF633_Service_Catalog_Management_API_v4.0.0_specification\2.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF633_Service_Catalog_Management_API_v4.0.0_specification\3.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF633_Service_Catalog_Management_API_v4.0.0_specification\4.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF633_Service_Catalog_Management_API_v4.0.0_specification\5.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF633_Service_Catalog_Management_API_v4.0.0_specification\6.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF633_Service_Catalog_Management_API_v4.0.0_specification\7.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF633_Service_Catalog_Management_API_v4.0.0_specification\8.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF633_Service_Catalog_Management_API_v4.0.0_specification\TMF633_Service_Catalog_Management_API_v4.0.0_specification.html
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF633_Service_Catalog_Management_API_v4.0.0_specification\TMF633_Service_Catalog_Management_API_v4.0.0_specification.md
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF633_Service_Catalog_Management_API_v4.0.0_specification\TMF633_Service_Catalog_Management_API_v4.0.0_specification.pdf
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF638_Service_Inventory_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF638_Service_Inventory_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF638_Service_Inventory_userguide\10.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF638_Service_Inventory_userguide\11.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF638_Service_Inventory_userguide\12.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF638_Service_Inventory_userguide\13.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF638_Service_Inventory_userguide\14.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF638_Service_Inventory_userguide\15.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF638_Service_Inventory_userguide\16.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF638_Service_Inventory_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF638_Service_Inventory_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF638_Service_Inventory_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF638_Service_Inventory_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF638_Service_Inventory_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF638_Service_Inventory_userguide\7.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF638_Service_Inventory_userguide\8.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF638_Service_Inventory_userguide\9.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF638_Service_Inventory_userguide\TMF638_Service_Inventory_userguide.html
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF638_Service_Inventory_userguide\TMF638_Service_Inventory_userguide.md
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF638_Service_Inventory_userguide\TMF638_Service_Inventory_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF640-Service_Activation_and_Configuration-v5.0.0\0.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF640-Service_Activation_and_Configuration-v5.0.0\1.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF640-Service_Activation_and_Configuration-v5.0.0\2.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF640-Service_Activation_and_Configuration-v5.0.0\3.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF640-Service_Activation_and_Configuration-v5.0.0\4.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF640-Service_Activation_and_Configuration-v5.0.0\5.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF640-Service_Activation_and_Configuration-v5.0.0\6.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF640-Service_Activation_and_Configuration-v5.0.0\7.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF640-Service_Activation_and_Configuration-v5.0.0\8.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF640-Service_Activation_and_Configuration-v5.0.0\9.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF640-Service_Activation_and_Configuration-v5.0.0\TMF640-Service_Activation_and_Configuration-v5.0.0.html
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF640-Service_Activation_and_Configuration-v5.0.0\TMF640-Service_Activation_and_Configuration-v5.0.0.md
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF640-Service_Activation_and_Configuration-v5.0.0\TMF640-Service_Activation_and_Configuration-v5.0.0.pdf
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF641-ServiceOrdering-v5.0.0\0.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF641-ServiceOrdering-v5.0.0\1.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF641-ServiceOrdering-v5.0.0\10.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF641-ServiceOrdering-v5.0.0\11.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF641-ServiceOrdering-v5.0.0\12.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF641-ServiceOrdering-v5.0.0\13.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF641-ServiceOrdering-v5.0.0\2.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF641-ServiceOrdering-v5.0.0\3.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF641-ServiceOrdering-v5.0.0\4.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF641-ServiceOrdering-v5.0.0\5.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF641-ServiceOrdering-v5.0.0\6.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF641-ServiceOrdering-v5.0.0\7.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF641-ServiceOrdering-v5.0.0\8.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF641-ServiceOrdering-v5.0.0\9.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF641-ServiceOrdering-v5.0.0\TMF641-ServiceOrdering-v5.0.0.html
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF641-ServiceOrdering-v5.0.0\TMF641-ServiceOrdering-v5.0.0.md
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF641-ServiceOrdering-v5.0.0\TMF641-ServiceOrdering-v5.0.0.pdf
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF645_Service_Qualification_v5.0_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF645_Service_Qualification_v5.0_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF645_Service_Qualification_v5.0_userguide\10.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF645_Service_Qualification_v5.0_userguide\11.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF645_Service_Qualification_v5.0_userguide\12.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF645_Service_Qualification_v5.0_userguide\13.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF645_Service_Qualification_v5.0_userguide\14.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF645_Service_Qualification_v5.0_userguide\15.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF645_Service_Qualification_v5.0_userguide\16.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF645_Service_Qualification_v5.0_userguide\17.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF645_Service_Qualification_v5.0_userguide\18.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF645_Service_Qualification_v5.0_userguide\19.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF645_Service_Qualification_v5.0_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF645_Service_Qualification_v5.0_userguide\20.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF645_Service_Qualification_v5.0_userguide\21.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF645_Service_Qualification_v5.0_userguide\22.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF645_Service_Qualification_v5.0_userguide\23.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF645_Service_Qualification_v5.0_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF645_Service_Qualification_v5.0_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF645_Service_Qualification_v5.0_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF645_Service_Qualification_v5.0_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF645_Service_Qualification_v5.0_userguide\7.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF645_Service_Qualification_v5.0_userguide\8.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF645_Service_Qualification_v5.0_userguide\9.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF645_Service_Qualification_v5.0_userguide\TMF645_Service_Qualification_v5.0_userguide.html
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF645_Service_Qualification_v5.0_userguide\TMF645_Service_Qualification_v5.0_userguide.md
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF645_Service_Qualification_v5.0_userguide\TMF645_Service_Qualification_v5.0_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF653_Service_Test_v5.0_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF653_Service_Test_v5.0_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF653_Service_Test_v5.0_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF653_Service_Test_v5.0_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF653_Service_Test_v5.0_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF653_Service_Test_v5.0_userguide\TMF653_Service_Test_v5.0_userguide.html
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF653_Service_Test_v5.0_userguide\TMF653_Service_Test_v5.0_userguide.md
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF653_Service_Test_v5.0_userguide\TMF653_Service_Test_v5.0_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF656_Service_Problem_v5.1_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF656_Service_Problem_v5.1_userguide\1.jpg
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF656_Service_Problem_v5.1_userguide\2.jpg
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF656_Service_Problem_v5.1_userguide\3.jpg
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF656_Service_Problem_v5.1_userguide\4.jpg
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF656_Service_Problem_v5.1_userguide\5.jpg
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF656_Service_Problem_v5.1_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF656_Service_Problem_v5.1_userguide\TMF656_Service_Problem_v5.1_userguide.html
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF656_Service_Problem_v5.1_userguide\TMF656_Service_Problem_v5.1_userguide.md
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF656_Service_Problem_v5.1_userguide\TMF656_Service_Problem_v5.1_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF657_Service_Quality_Management_Management_API_v4.0.0_specification\0.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF657_Service_Quality_Management_Management_API_v4.0.0_specification\1.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF657_Service_Quality_Management_Management_API_v4.0.0_specification\2.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF657_Service_Quality_Management_Management_API_v4.0.0_specification\3.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF657_Service_Quality_Management_Management_API_v4.0.0_specification\4.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF657_Service_Quality_Management_Management_API_v4.0.0_specification\TMF657_Service_Quality_Management_Management_API_v4.0.0_specification.html
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF657_Service_Quality_Management_Management_API_v4.0.0_specification\TMF657_Service_Quality_Management_Management_API_v4.0.0_specification.md
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF657_Service_Quality_Management_Management_API_v4.0.0_specification\TMF657_Service_Quality_Management_Management_API_v4.0.0_specification.pdf
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF727_Service_Usage_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF727_Service_Usage_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF727_Service_Usage_userguide\2.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF727_Service_Usage_userguide\3.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF727_Service_Usage_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF727_Service_Usage_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF727_Service_Usage_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF727_Service_Usage_userguide\TMF727_Service_Usage_userguide.html
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF727_Service_Usage_userguide\TMF727_Service_Usage_userguide.md
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF727_Service_Usage_userguide\TMF727_Service_Usage_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF777_Outage_Management_userguide\0.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF777_Outage_Management_userguide\1.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF777_Outage_Management_userguide\10.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF777_Outage_Management_userguide\11.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF777_Outage_Management_userguide\12.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF777_Outage_Management_userguide\13.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF777_Outage_Management_userguide\14.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF777_Outage_Management_userguide\15.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF777_Outage_Management_userguide\16.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF777_Outage_Management_userguide\17.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF777_Outage_Management_userguide\18.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF777_Outage_Management_userguide\2.jpg
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF777_Outage_Management_userguide\3.jpg
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF777_Outage_Management_userguide\4.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF777_Outage_Management_userguide\5.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF777_Outage_Management_userguide\6.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF777_Outage_Management_userguide\7.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF777_Outage_Management_userguide\8.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF777_Outage_Management_userguide\9.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF777_Outage_Management_userguide\TMF777_Outage_Management_userguide.html
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF777_Outage_Management_userguide\TMF777_Outage_Management_userguide.md
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF777_Outage_Management_userguide\TMF777_Outage_Management_userguide.pdf
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF909_Network_as_a_Service_Management_API_v4.2.0_beta_specification\0.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF909_Network_as_a_Service_Management_API_v4.2.0_beta_specification\1.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF909_Network_as_a_Service_Management_API_v4.2.0_beta_specification\10.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF909_Network_as_a_Service_Management_API_v4.2.0_beta_specification\11.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF909_Network_as_a_Service_Management_API_v4.2.0_beta_specification\12.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF909_Network_as_a_Service_Management_API_v4.2.0_beta_specification\13.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF909_Network_as_a_Service_Management_API_v4.2.0_beta_specification\14.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF909_Network_as_a_Service_Management_API_v4.2.0_beta_specification\15.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF909_Network_as_a_Service_Management_API_v4.2.0_beta_specification\16.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF909_Network_as_a_Service_Management_API_v4.2.0_beta_specification\17.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF909_Network_as_a_Service_Management_API_v4.2.0_beta_specification\18.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF909_Network_as_a_Service_Management_API_v4.2.0_beta_specification\19.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF909_Network_as_a_Service_Management_API_v4.2.0_beta_specification\2.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF909_Network_as_a_Service_Management_API_v4.2.0_beta_specification\20.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF909_Network_as_a_Service_Management_API_v4.2.0_beta_specification\21.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF909_Network_as_a_Service_Management_API_v4.2.0_beta_specification\22.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF909_Network_as_a_Service_Management_API_v4.2.0_beta_specification\3.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF909_Network_as_a_Service_Management_API_v4.2.0_beta_specification\4.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF909_Network_as_a_Service_Management_API_v4.2.0_beta_specification\5.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF909_Network_as_a_Service_Management_API_v4.2.0_beta_specification\6.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF909_Network_as_a_Service_Management_API_v4.2.0_beta_specification\7.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF909_Network_as_a_Service_Management_API_v4.2.0_beta_specification\8.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF909_Network_as_a_Service_Management_API_v4.2.0_beta_specification\9.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF909_Network_as_a_Service_Management_API_v4.2.0_beta_specification\TMF909_Network_as_a_Service_Management_API_v4.2.0_beta_specification.html
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF909_Network_as_a_Service_Management_API_v4.2.0_beta_specification\TMF909_Network_as_a_Service_Management_API_v4.2.0_beta_specification.md
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF909_Network_as_a_Service_Management_API_v4.2.0_beta_specification\TMF909_Network_as_a_Service_Management_API_v4.2.0_beta_specification.pdf
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF914_IoT_Service_Management_API_v4.0.0_beta_specification\0.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF914_IoT_Service_Management_API_v4.0.0_beta_specification\1.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF914_IoT_Service_Management_API_v4.0.0_beta_specification\10.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF914_IoT_Service_Management_API_v4.0.0_beta_specification\11.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF914_IoT_Service_Management_API_v4.0.0_beta_specification\12.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF914_IoT_Service_Management_API_v4.0.0_beta_specification\13.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF914_IoT_Service_Management_API_v4.0.0_beta_specification\14.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF914_IoT_Service_Management_API_v4.0.0_beta_specification\15.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF914_IoT_Service_Management_API_v4.0.0_beta_specification\16.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF914_IoT_Service_Management_API_v4.0.0_beta_specification\2.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF914_IoT_Service_Management_API_v4.0.0_beta_specification\3.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF914_IoT_Service_Management_API_v4.0.0_beta_specification\4.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF914_IoT_Service_Management_API_v4.0.0_beta_specification\5.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF914_IoT_Service_Management_API_v4.0.0_beta_specification\6.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF914_IoT_Service_Management_API_v4.0.0_beta_specification\7.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF914_IoT_Service_Management_API_v4.0.0_beta_specification\8.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF914_IoT_Service_Management_API_v4.0.0_beta_specification\9.png
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF914_IoT_Service_Management_API_v4.0.0_beta_specification\TMF914_IoT_Service_Management_API_v4.0.0_beta_specification.html
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF914_IoT_Service_Management_API_v4.0.0_beta_specification\TMF914_IoT_Service_Management_API_v4.0.0_beta_specification.md
+D:\TMF\영문 MD\TMF Open API\Service APIs (13)\TMF914_IoT_Service_Management_API_v4.0.0_beta_specification\TMF914_IoT_Service_Management_API_v4.0.0_beta_specification.pdf

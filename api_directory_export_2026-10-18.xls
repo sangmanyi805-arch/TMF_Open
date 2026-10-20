@@ -1,0 +1,1434 @@
+
+      <html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+      <head>
+        <meta charset="UTF-8">
+        <!--[if gte mso 9]>
+        <xml>
+          <x:ExcelWorkbook>
+            <x:ExcelWorksheets>
+              <x:ExcelWorksheet>
+                <x:Name>API Directory</x:Name>
+                <x:WorksheetOptions>
+                  <x:DisplayGridlines/>
+                </x:WorksheetOptions>
+              </x:ExcelWorksheet>
+            </x:ExcelWorksheets>
+          </x:ExcelWorkbook>
+        </xml>
+        <![endif]-->
+      </head>
+      <body>
+        <table>
+          <thead>
+            <tr>
+              <th>Title</th><th>Description</th><th>Document Number</th><th>Domains</th><th>Types</th><th>Version</th><th>Date</th><th>Status</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td>Geographic Location Management API</td><td>&lt;p&gt;Provides the information of a geographic region of the entity (customer, equipment, address).&lt;/p&gt;</td><td>TMF675</td><td>Common</td><td>RESTful</td><td>N/A</td><td></td><td></td></tr><tr><td>Customer Management API</td><td>&lt;p&gt;Provides a standardized mechanism for customer and customer account management, such as creation, update, retrieval, deletion and notification of events. 
+&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0 &lt;/p&gt;
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;&lt;p&gt;21-Jan-2026 The CTK and RI have been re-released in a dockerized format, this may require different set up requirements and any automation platforms will need to be updated. Click &lt;a href="https://projects.tmforum.org/wiki/display/API/TM+Forum+Open+API+Conformance+Testing+and+Validation+Instructions+Page" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     class="styled-link"&gt;
+    here for more information&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt; 
+&lt;p&gt;25 Jul 2024 Open API Specification (OAS) v5.0.1 release fixes bug  v5.0.0 OAS file TMF629 Customer Management is missing Characteristic subclasses.&lt;/p&gt;
+
+&lt;br&gt; v4.0.0 &lt;/br&gt;
+&lt;p&gt;
+15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;
+&lt;p&gt;07-Nov-2024 TMF629 v4.0.0 CTK file fix Mac-Linux-RUNCTK.sh modified to remove syntax errors. No impact to awarded Open API Conformance certifications.
+
+ &lt;style&gt;
+.styled-link {
+  color: blue;               /* hyperlink blue */
+  text-decoration: underline; /* underline like a normal link */
+  cursor: pointer;           /* hand cursor on hover */
+}
+.styled-link:visited {
+  color: purple;             /* optional: visited link color */
+}
+.styled-link:hover {
+  color: darkblue;           /* hover color */
+}
+&lt;/style&gt;</td><td>TMF629</td><td>Customer</td><td>RESTful</td><td>v5.0</td><td>2026-05-08</td><td>Production</td></tr><tr><td>Cost Management API</td><td>&lt;p&gt;The Cost Management API provides a standardized mechanism to manage projected and actual costs across telecom services and resources. It enables creating, updating, deleting, and retrieving cost instances, each containing one or more cost items. The API supports three cost cycles: one-time costs, recurring fixed costs, and consumption-based costs. It is designed to interact seamlessly with various ODA function blocks for effective cost tracking and optimization. &lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0
+&lt;p&gt; 18 July 2025 TMF764 preview release v5.0.0: Open API Specification (OAS), User Guide, Conformance Profile
+&lt;/p&gt;</td><td>TMF764</td><td>Common</td><td>RESTful</td><td>N/A</td><td></td><td></td></tr><tr><td>Document Management API</td><td>&lt;p&gt;Provides the operations to synchronize documents and document versions across systems. It also provides operations for uploading documents by Users as well as for viewing of documents online&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt; v5.0.0&lt;/p&gt;
+&lt;p&gt;
+05-Aug-2026 – TMF667 v5.0.0 Stable release including the Open API Specification (OAS), User Guide, Conformance Profile, Postman Collection, Sample Implementation Code, and Conformance Test Kit (CTK).
+&lt;/p&gt;
+&lt;p&gt;
+15-July-2026 – TMF667 v5.0.0 RC2 Preview release: Updated preview with minor changes including addition of use cases to user guide, improved examples and descriptions, and an updated/clarified conformance profile. &lt;/p&gt;
+&lt;p&gt;
+04-Jun-2026 – TMF667 v5.0.0 RC1 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection. 
+This release provides an updated v5.0.0 preview of the Document Management API, aligned with the latest TM Forum Open API standards and includes a Postman Collection.
+&lt;/p&gt;
+&lt;p&gt;14-Oct-2024  TMF667 v5.0.0 preview release: Open API Specification, User Guide and Conformance profile  &lt;/p&gt;
+&lt;br&gt; v4.0.0&lt;/br&gt;
+&lt;p&gt;
+V4.0 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;
+07-Nov-2024  TMF667 v4.0.0 CTK file fix Mac-Linux-RUNCTK.sh modified to remove syntax errors. No impact to awarded Open API Conformance certifications.</td><td>TMF667</td><td>Common</td><td>RESTful</td><td>v5.0</td><td>2026-08-05</td><td>Production</td></tr><tr><td>Service Catalog Management API</td><td>&lt;p&gt;The Service Catalog Management API allows the management of the entire lifecycle of the service catalog elements.&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;br&gt; v4.0.0 
+&lt;p&gt;
+15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;
+&lt;p&gt;07-Nov-2024 TMF633 v4.0.0 CTK file fix Mac-Linux-RUNCTK.sh modified to remove syntax errors. No impact to awarded Open API Conformance certifications.</td><td>TMF633</td><td>Service</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>Service Usage Management API</td><td>&lt;p&gt;The Service Usage Management API provides a standardized mechanism for service usage management such as the creation, update, retrieval, import and export of a collection of service usages.&lt;/p&gt;
+&lt;p&gt; 14-Oct-2024 TMF727 v5.0.0 preview release: Open API Specification, User Guide and Conformance profile updates for consistency between Usage APIs: Product Usage, Service Usage and Resource Usage. </td><td>TMF727</td><td>Service</td><td>RESTful</td><td>N/A</td><td></td><td></td></tr><tr><td>DCS 5GSlice Service Activation API</td><td>&lt;p title=""&gt;Domain Context Specialization of TMF640 for 5G Service Slice, Swagger of Contract is strongly bound to the GSMA Service Definition&lt;/p&gt;</td><td>TMF924</td><td>Service</td><td>RESTful</td><td>N/A</td><td></td><td></td></tr><tr><td>Federated ID Management API</td><td>&lt;p&gt;The management of principals of any kind (persons, objects, …) and their access to resources in an open environment which can span across different enterprise boundaries. It relies on authentication, authorization and consent mechanisms to protect privacy with a simple and easy user experience. Different parties can provide identity services (operators, social networks, GSMA, …).&lt;/p&gt;</td><td>TMF691</td><td>Common</td><td>RESTful</td><td>N/A</td><td></td><td></td></tr><tr><td>Work Qualification Management</td><td>No description available yet</td><td>TMF714</td><td>Common</td><td>RESTful</td><td>N/A</td><td></td><td></td></tr><tr><td>Incident Management API</td><td>The Incident Management API provides a standardized mechanism to report, diagnose and resolve incidents and manages the entire lifecycle of incidents as defined by ITIL. The primary objective of incident management is to restore normal service operation as quickly as possible and minimize the adverse impact on business operations, ensuring that agreed levels of service quality are maintained.
+&lt;p&gt;
+v4.0.0 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;</td><td>TMF724</td><td>Common</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>Work Management</td><td>The Work Management API facilitates the management and tracking of various telecom-related work activities (for example installation, maintenance, upgrades, and repairs). It provides endpoints to create, retrieve, update, and delete work-related resources.
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;&lt;/br&gt;
+&lt;p&gt;v5.0.0
+&lt;p&gt; 18-Sept-2026  TMF713 v5.0.0 RC1 Preview release: Open API Specification (OAS), User Guide, Conformance profile, and Postman.&lt;/p&gt;</td><td>TMF713</td><td>Business Partner</td><td>RESTful</td><td>N/A</td><td></td><td></td></tr><tr><td>Resource Activation Management API</td><td>The Resource Activation and Configuration API can be used to query resource instances to acquire the resource activation states and attributes, and it can be used to create/update, configure and activate the resource instances.
+&lt;p&gt;&lt;b&gt;v5.0.0&lt;/b&gt;&lt;/p&gt;
+25-Sept-2026 – TMF702 v5.0.0 RC2 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection.
+&lt;p&gt;
+11-Sept-2026 – TMF702 v5.0.0 RC1 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection.
+&lt;p&gt;
+V4.0 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;</td><td>TMF702</td><td>Resource</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>Communication Management API</td><td>&lt;p&gt;Provides a capability to create and send communications, notifications, and instructions to Parties, Individuals, Organizations or Users.&lt;/p&gt;
+&lt;p&gt;
+V4.0 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;</td><td>TMF681</td><td>Common</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>SLA Management API</td><td>&lt;p&gt;Provides a standardized interface for Service Level Agreement (SLA) life-cycle Management (SLA Negotiation, SLA configuration SLA Activation/enforcement, SLA Operations, SLA violation / consequence handling, SLA reporting) between a Customer and a Service Provider which provides offers (product with attached SLA in its catalogue) the customer can discover, browse, trigger and order.&lt;/p&gt;</td><td>TMF623</td><td>Business Partner</td><td>RESTful</td><td>N/A</td><td></td><td></td></tr><tr><td>IoT Agent and Device Management API</td><td>In addition to including established TM Forum Open APIs, such as alarm management, resource management and activation APIs, the IoT Device Management API Component Suite also includes an IoT Data Access Endpoint API. This API allows for IoT data access using different types of protocols (MQTT IoT, CoAP, etc.). It encapsulates the protocols and allows devices to be easily integrated into solutions that support a host of IoT initiatives, including smart cities, smart factories and other vertical markets.</td><td>TMF908</td><td>Resource</td><td>RESTful</td><td>N/A</td><td></td><td></td></tr><tr><td>Event Management API</td><td>The Event Management API provides a standardized client interface to the enterprise event management system for creating, managing and receiving service related events to (indicatively) drive automation workflows, notify other service providers for service outages and SLA violations, trigger Trouble Ticket creation, and enable more complex orchestration scenarios between management systems. The Event Management API can also be used to convey business level Events in support of other processes.</td><td>TMF688</td><td>Common</td><td>RESTful</td><td>N/A</td><td></td><td></td></tr><tr><td>Shipping Order Management API</td><td>Provides the necessary functionality to create, update and query Shipping Orders. A Shipping Order is a document used by a business to specify what items are to be transferred from a storage location or warehouse to which person and to which new location. A ShippingOrder typically is sent along with a shipment of goods so that the person receiving them can verify that the document correctly reflects the items that they actually received.</td><td>TMF700</td><td>Business Partner</td><td>RESTful</td><td>N/A</td><td></td><td></td></tr><tr><td>Test Environment Management API</td><td>This API provides a standardized mechanism for the management of test artefacts related to test environment specification. These include Abstract Test Environments, Concrete Environment Metamodels used to map abstract environments to concrete test resources, Environment Provisioning Artefacts, and Test Resource APIs exposed to test cases.
+19 July 2024: CTK fix
+&lt;p&gt;
+V4.0 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;</td><td>TMF705</td><td>Common</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>Appointment Management API</td><td>&lt;p&gt;An Appointment is an arrangement for service provider personnel to carry out some activity at a particular time and place, typically (but not exclusively) at customer premises. It could be used to install a product service, deliver a product order item or solve a customer problem. This API provides the interface for managing Appointments.&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0&lt;/p&gt;
+&lt;p&gt; 12-Aug-2026  TMF646 v5.0.0 RC2 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection. The `POST /searchTimeSlot` operation has been marked as a task resource, and metadata, including description fields have been updated. &lt;/p&gt; 
+&lt;p&gt;15-July-2026 TMF646 v5.0.0 RC1 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection. This release provides an updated v5.0.0 preview of the Document Management API, aligned with the latest TM Forum Open API standards and includes a Postman Collection.&lt;/p&gt;
+
+&lt;p&gt;v4.0.0&lt;/p&gt;
+&lt;p&gt;
+15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;
+&lt;p&gt;07-Nov-2024 TMF646 v4.0.0 CTK file fix Mac-Linux-RUNCTK.sh modified to remove syntax errors. No impact to awarded Open API Conformance certifications.</td><td>TMF646</td><td>Customer</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>Topology Management API</td><td>This API manages a topology discovery service providing an overlay view of relational information, gathered from one or more other Open API producers, in the form of directed graphs.</td><td>TMF686</td><td>Common</td><td>RESTful</td><td>N/A</td><td></td><td></td></tr><tr><td>Test Execution Management API</td><td>This API provides a standardized mechanism for test case, test suite, and non-functional test model execution. This also includes allocation and provisioning of test environments for test execution.
+&lt;p&gt;
+V4.0 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;</td><td>TMF708</td><td>Common</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>Metadata Catalog Management API</td><td>Metadata Catalog</td><td>TMF725</td><td>Common</td><td>RESTful</td><td>N/A</td><td></td><td></td></tr><tr><td>General Test Artifact Management API</td><td>This API provides a standardized mechanism for the management of test artefacts that do not fall into the categories managed by TMF704, TMF705, TMF706, TMF707, or TMF709, such as binaries, jars, etc.
+&lt;p&gt;
+V4.0 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;</td><td>TMF710</td><td>Common</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>Payment Method Management API</td><td>&lt;p&gt;This API supports the frequently-used payment methods for the customer to choose and pay the usage, including voucher card, coupon, and money transfer.&lt;/p&gt;
+&lt;p&gt;
+V4.0 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;</td><td>TMF670</td><td>Customer</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>Self Care Management API</td><td>&lt;p&gt;&lt;span style="color: rgb(36,41,46);"&gt;The Self Care API component suite covers the operations required to be exposed in order to provide the functionality required by a SelfCare application used by a Service Provider to allow its customers to manage the services it has subscribed to.&lt;/span&gt;&lt;/p&gt;</td><td>TMF910</td><td>Common</td><td>RESTful</td><td>N/A</td><td></td><td></td></tr><tr><td>Entity Inventory Management API</td><td>The intent of this API is to provide a consistent/standardized mechanism to query and manipulate the Entity inventory.</td><td>TMF703</td><td>Common</td><td>RESTful</td><td>N/A</td><td></td><td></td></tr><tr><td>Warranty Management</td><td>No description available yet</td><td>TMF715</td><td>Common</td><td>RESTful</td><td>N/A</td><td></td><td></td></tr><tr><td>Prepay Balance Management API</td><td>&lt;p&gt;REST API for Balance Management. It includes the model definition as well as all available operations for prepay balance management. Prepaid subscribers pay fees before using services. Therefore, the subscribers must have sufficient balances. Operators can provide multiple recharge channels for subscribers. Subscribers can pass credit between different subscriptions, therefore transferring the balance from one account to another.&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0&lt;/pr&gt;
+&lt;p&gt;09 Jan 2025 preview release v5.0.0: Open API Specification (OAS), User Guide
+&lt;br&gt;
+&lt;p&gt;v4.0.0&lt;/pr&gt;
+&lt;p&gt; 01 Jul 2021 Stable release: OAS, user guide, conformance profile, CTK, RI and postman release.&lt;/p&gt;
+</td><td>TMF654</td><td>Customer</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>Privacy Management API</td><td>&lt;p&gt;The Privacy management API provides a standardized mechanism for privacy profile types, privacy profiles and privacy agreements such as creation, update, retrieval, deletion and notification of events&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0&lt;/pr&gt;
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+&lt;p&gt;21-Jan-2026 The CTK and RI have been re-released in a dockerized format, this may require different set up requirements and any automation platforms will need to be updated.  Click &lt;a href="https://projects.tmforum.org/wiki/display/API/TM+Forum+Open+API+Conformance+Testing+and+Validation+Instructions+Page" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     class="styled-link"&gt;
+    here for more information&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt;
+
+&lt;style&gt;
+.styled-link {
+  color: blue;               /* hyperlink blue */
+  text-decoration: underline; /* underline like a normal link */
+  cursor: pointer;           /* hand cursor on hover */
+}
+.styled-link:visited {
+  color: purple;             /* optional: visited link color */
+}
+.styled-link:hover {
+  color: darkblue;           /* hover color */
+}
+&lt;/style&gt;
+&lt;p&gt;
+V4.0.0 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;</td><td>TMF644</td><td>Business Partner</td><td>RESTful</td><td>v5.0</td><td>2026-05-08</td><td>Production</td></tr><tr><td>Resource Pool Management API</td><td>&lt;p&gt;Resource Pool management API provides a feature of resource reservation at pre-order phase. In order to reserve a physical product, logical product, and virtual product, the API uses the idea of a resource pool.&lt;/p&gt;
+Release history&lt;/p&gt;
+v5.0.0&lt;/p&gt;
+01-Nov-2024 TMF685 v5.0.0  preview release: new user guide released with updates for:
+&lt;br&gt; the Use Case&lt;/br&gt;
+Resource 
+"ResourcePool"
+Resource 
+"ResourcePoolSpecification"&lt;/br&gt;
+Resources "AvailabilityCheck"&lt;/br&gt;
+Resources "Push"&lt;/br&gt;
+Resources "Extract"&lt;/br&gt;
+&lt;/p&gt;
+14-Oct-2024 TMF685 v5.0.0  preview release: Open API Specification, User Guide and Conformance profile </td><td>TMF685</td><td>Resource</td><td>RESTful</td><td>N/A</td><td></td><td></td></tr><tr><td>Fraud Managment API</td><td>&lt;p&gt;The Fraud Management API provides a standardized mechanism for evaluating fraud risk associated with a telecommunications customer or transaction. The API enables requesting parties (such as merchants, banks, or internal systems) to submit fraud evaluation requests and receive comprehensive risk assessments.&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0
+&lt;p&gt; 4-Sept-2026  TMF770 v5.0.0   Stable release: Open API Specification (OAS), User Guide, Conformance Profile, Postman Collection, CTK and RI. &lt;/p&gt; 
+&lt;p&gt; 12-Aug-2026  TMF770 v5.0.0  RC1 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection. &lt;/p&gt; </td><td>TMF770</td><td>Customer</td><td>RESTful</td><td>v5.0</td><td>2026-09-04</td><td>Production</td></tr><tr><td>Resource Usage API</td><td>&lt;p&gt;The Resource Usage Management API provides a standardized mechanism for resource
+usage management such as the creation, update, retrieval, import and export of a collection
+of usages. A resource usage is an occurrence of employing a Resource, Resource Usage
+can influence of Service Usage and/or Product Usage.&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0&lt;/pr&gt;
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+&lt;p&gt;21-Jan-2026 The CTK and RI have been re-released in a dockerized format, this may require different set up requirements and any automation platforms will need to be updated. Click &lt;a href="https://projects.tmforum.org/wiki/display/API/TM+Forum+Open+API+Conformance+Testing+and+Validation+Instructions+Page" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     class="styled-link"&gt;
+    here for more information&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt;
+&lt;p&gt; 30-Sept-2024 release: v5.0.0 CTK, RI, Postman released. Stable release.
+&lt;p&gt; 20-Sept-2024 release: v5.0.0 small changes in schemas to align apis: TMF767 Product Usage, TMF727 Service Usage and TMF771 Resource Usage.
+
+
+&lt;style&gt;
+.styled-link {
+  color: blue;               /* hyperlink blue */
+  text-decoration: underline; /* underline like a normal link */
+  cursor: pointer;           /* hand cursor on hover */
+}
+.styled-link:visited {
+  color: purple;             /* optional: visited link color */
+}
+.styled-link:hover {
+  color: darkblue;           /* hover color */
+}
+&lt;/style&gt;</td><td>TMF771</td><td>Resource</td><td>RESTful</td><td>v5.0</td><td>2026-05-08</td><td>Production</td></tr><tr><td>Service Ordering Management API</td><td>&lt;p&gt;The REST API for Service Order Management provides a standardized mechanism for placing a service order with all the necessary order parameters. It allows users to create, update &amp; retrieve Service Orders and manages related notifications.&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v4.2.0&lt;/p&gt;
+&lt;p&gt; 14-Aug-2026  TMF641 v4.2.0 Stable release: Open API Specification (OAS), User Guide, Conformance profile, CTK, VS, and Postman.&lt;/p&gt;
+&lt;p&gt; 13-Aug-2026  TMF641 v4.2.0 RC2 Preview release: Open API Specification (OAS), User Guide, and Conformance Profile. This change was adding ServiceOrderSpecification as a managed resource, together with its sub-resources. In addition added clarifications in the user guide on the usage of modifyPath, milestone, and jeopardy attributes within the ServiceOrder resource.&lt;/p&gt; 
+01 Aug 2024 v4.2.0 release The changes are made to reflect the updates done in service resource model to align with TMF638 v4.2 and TMF640 v4.2 updates and also the addition of optional modifyPath attribute in serviceOrderItem.&lt;/p&gt;
+&lt;br&gt;v4.1.0&lt;/br&gt;
+&lt;p&gt;15 May 2026 – CTK updated
+date query parameters previously required values to be enclosed in double quotes. This has been corrected — dates are now passed unquoted. docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration. &lt;/p&gt;
+&lt;p&gt;12 Mar 2026 TMF641 v4.1.0 release: This update includes fixes and minor improvements to the CTK and Reference Implementation. The update corrects the use of a string for a datetime filter parameter, which has now been aligned to the proper ISO 8601 date-time format. README files have also been improved with clearer guidance, including suggested proxy configuration for Docker images to support testing vendor implementations across different networks. The Docker image tag has been incremented from v1.0.0 to v1.0.1 to reflect this patch update.&lt;/p&gt;
+&lt;p&gt;20-Dec-2024: v4.1.0 Updates to CTK and RI released: Removed @type mandatory in RelatedParty for TMF641 Service Order. Note: in general v4.x APIs do not mandate @type
+&lt;p&gt;28-Nov-2024: Fix released for CTK. The payload within the test cases was adjusted so that the CTK now correctly passes when pointed to the associated RI.  The CTK test cases were adjusted to remove the double-quotes (") around the orderDate filter and replaced with single-quotes ('). The URL is now /serviceOrder?orderDate='2024-11-12' to make things easier to read. 
+&lt;p&gt;07-Nov-2024: TMF641 v4.0.0 CTK file fix Mac-Linux-RUNCTK.sh modified to remove syntax errors. No impact to awarded Open API Conformance certifications.
+
+ </td><td>TMF641</td><td>Service</td><td>RESTful</td><td>v4.2</td><td>2026-08-14</td><td>Production</td></tr><tr><td>Private Optimized Binding</td><td>TMF759 Private Optimized Binding API provides the ability to improve the network connection between user equipment and cloud application by means of a simple switch, creating a new way to improve user experience and open new revenue stream.
+
+&lt;p&gt;TMF759 is derived from TMF702, TMF759 opens the door for future APIs, allowing to manage more dedicated core network operations to bolster NaaS capabilities</td><td>TMF759</td><td>Resource</td><td>RESTful</td><td>N/A</td><td></td><td></td></tr><tr><td>Performance Management API</td><td>&lt;p&gt;Provides a standardized mechanism for performance management such as the creation, partial or full update and retrieval of resources involved in performance management (Measurement Production Job, Measurement Collection Job, and Ad hoc Collection). It also allows notification of events related to performance. &lt;/p&gt;</td><td>TMF628</td><td>Common</td><td>RESTful</td><td>N/A</td><td></td><td></td></tr><tr><td>Network as a Service Management API</td><td>&lt;p&gt;&lt;span style="color: rgb(36,41,46);"&gt;The API Component Suite supports of a set of Operational Domains exposing and managing “Network” Services. These services are referred to as Network as a Service (NaaS) and include all services offered from a service provider including connectivity, end points, media services, etc. &lt;/span&gt;&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt; v4.2.0&lt;/p&gt;
+&lt;p&gt; 20-Dec-2024 v4.2.0: fixed Open API Specification broken link to correct TMF909_Network_as_a_Service_Management_API_v4.2.0_beta_swagger.json file,
+</td><td>TMF909</td><td>Service</td><td>RESTful</td><td>N/A</td><td></td><td></td></tr><tr><td>IoT Service Management API</td><td>The IoT Service Management Component suite captures the minimal essential operational APIs required to manage IoT service end to end, and therefore accelerate IoT infrastructure as a service and help manage IoT at scale.</td><td>TMF914</td><td>Service</td><td>RESTful</td><td>N/A</td><td></td><td></td></tr><tr><td>Shipment Tracking Management API</td><td>&lt;p&gt;Shipment Tracking captures information about the current status of the shipment, the past checkpoints and the estimated arrival date. Via this API, tracking information can be retrieved by providing an order ID or the shipping company’s tracking id.&lt;/p&gt;</td><td>TMF684</td><td>Business Partner</td><td>RESTful</td><td>N/A</td><td></td><td></td></tr><tr><td>Risk Management API</td><td>The Risk Management API allows the retrieval of Risk Assessments during interaction with PartyRoles (individuals or organizations) typically engaged in an Order process from ProviderPartyRole. The Risk Assessment request is usually issued by the ProviderPartyRole (e.g. Service Provider). The resources used to retrieve these assessment are Task resources, as per the Open API guidelines for tasks
+&lt;p&gt;
+V4.0 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;</td><td>TMF696</td><td>Customer</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>Test Case Management API</td><td>This API provides a standardized mechanism for the management of test artefacts that do not fall into the categories managed by TMF704, TMF705, TMF706, TMF707, or TMF709, such as binaries, jars, etc.
+&lt;p&gt; 27-Aug-2024 v4.0.0 CTK fixes released
+&lt;p&gt;
+V4.0 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;</td><td>TMF704</td><td>Common</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>Promotion Management API</td><td>&lt;p title=""&gt;Used to provide the additional discount, voucher, bonus or gift to the customer who meets the pre-defined criteria. Using promotion, the enterprise is able to attract the users and encourage more consumption, especially continuous purchases. Normally Promotion is not regarded as one type of product or product offering. It is often applied when the customer buys the product offerings with the price or amount surpassing the certain limit&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0
+&lt;p&gt;22 Nov 2024 TMF671 v5.0.0 User guide released.&lt;/p&gt;
+&lt;p&gt;
+V4.1 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;</td><td>TMF671</td><td>Product</td><td>RESTful</td><td>v4.1</td><td>2026-05-15</td><td>Production</td></tr><tr><td>Resource Role API </td><td>The Resource Role Management API is designed to facilitate the management of resource role instances and specifications. These specifications delineate the shared characteristics and behaviors inherent to each type of resource entity.
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0&lt;/p&gt;
+&lt;p&gt;22-Nov-2024 TMF768 v5.0.0 updates to Conformance profile and User guide released.
+&lt;p&gt;14-Nov-2024 TMF768 v5.0.0  OAS, User Guide and Conformance profile  &lt;/p&gt;preview release &lt;/p&gt;</td><td>TMF768</td><td>Resource</td><td>RESTful</td><td>N/A</td><td></td><td></td></tr><tr><td>Sales Management API</td><td>&lt;p&gt;&lt;span style="color: rgb(51,51,51);"&gt;The Sales Management API provides interfaces for Sales Lead, Sales Opportunity and the other management capabilities to support the sales activities to build relationship with the prospect customer who could be a person or organization that has an interest in the goods and/or services and possibly become the actual customers with one or more subscriptions. &lt;/span&gt;&lt;/p&gt; 
+&lt;p&gt; V5.0 &lt;/p&gt; 
+&lt;p&gt;
+05-Aug-2026 – TMF699 v5.0.0 Stable release including the Open API Specification (OAS), User Guide, Conformance Profile, Postman Collection, Sample Implementation Code, and Conformance Test Kit (CTK).
+&lt;/p&gt;
+&lt;p&gt; 15-July-2026 TMF669 v5.0.0 RC1 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection. This release provides an updated v5.0.0 preview of the Document Management API, aligned with the latest TM Forum Open API standards and includes a Postman Collection.
+&lt;/p&gt;
+&lt;p&gt; V4.0 &lt;/p&gt; &lt;p&gt;
+15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;</td><td>TMF699</td><td>Marketing Sales</td><td>RESTful</td><td>v5.0</td><td>2026-08-05</td><td>Production</td></tr><tr><td>Agreement Management API</td><td>&lt;p&gt;The Agreement API provides a standardized mechanism for managing agreements, especially in the context of partnerships between partners.&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0&lt;/p&gt;
+&lt;p&gt;06-Sept-2024 TMF651 Agreement V5.0.0 OAS and User guide released &lt;/p&gt;
+&lt;br&gt;v4.0.0&lt;/br&gt;
+&lt;p&gt;
+15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;
+&lt;p&gt;07-Nov-2024 TMF651 v4.0.0 CTK file fix Mac-Linux-RUNCTK.sh modified to remove syntax errors. No impact to awarded Open API Conformance certifications.
+ </td><td>TMF651</td><td>Business Partner</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>Resource Reservation</td><td>18-Dec-2024 Fixed broken swagger link&lt;/p&gt;
+30-May-2024 Regenerated  swagger file for TMF716, released hot fix 
+&lt;p&gt;
+V4.0.0 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;</td><td>TMF716</td><td>Resource</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>Shipment Management Management API</td><td>Shipment Management</td><td>TMF711</td><td>Business Partner</td><td>RESTful</td><td>N/A</td><td></td><td></td></tr><tr><td>Software And Compute Management API</td><td>This API Suite introduces schemas mapping the Software and Compute ABE to the Open API data model. The intention is to normalize this pattern for managing software resources such as ODA Components, VNFs and cloud native functions (CNF).  The existing Resource domain APIs for Catalog (634), Inventory (639), Activation (664, 702) and Ordering (652) should be used with these extentions of Resource/ResourceSpecification however the TMF730 API, with it's swagger and User Guide makes the data model published and available.
+&lt;p&gt;
+v4.0.0 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;</td><td>TMF730</td><td>Resource</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>AI Management API</td><td>&lt;p&gt;&lt;span style="color: rgb(36,41,46);"&gt;The API Component Suite for AI Management defines the set of operations that should be offered in order that a Service Provider can govern Artificial Intelligence systems deployed at scale. Effective governance and management of AI must span the lifecycle from design through deployment and eventual withdrawal from service. However, the initial focus of the AI Management API is restricted to the in-life aspects of AI and in particular on the management of ‘model contracts’. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;
+v4.0.0 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;</td><td>TMF915</td><td>Common</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>Loyalty Management API</td><td>&lt;p&gt;Supports the management of loyalty program specifications, loyalty program members, their associated products and loyalty accounts with loyalty balances&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0
+&lt;p&gt;4-September-2025  v5.0.0 preview release: publish User Guide to match earlier release of OAS and Conformance Profile
+&lt;p&gt; 18 July 2025 TMF658 preview release v5.0.0: Open API Specification (OAS), Conformance Profile
+&lt;/p&gt;</td><td>TMF658</td><td>Product</td><td>RESTful</td><td>N/A</td><td></td><td></td></tr><tr><td>Change Management API</td><td>&lt;p&gt;The Change Management API provides standard integration capabilities between external applications and Change Management Application. The API consists of a simple set of operations that interact with a Change Request in a consistent manner.&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;br&gt;v4.0.0&lt;/br&gt;
+&lt;p&gt;
+15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;
+&lt;p&gt;07-Nov-2024 TMF655 v4.0.0 CTK file fix Mac-Linux-RUNCTK.sh modified to remove syntax errors. No impact to awarded Open API Conformance certifications.</td><td>TMF655</td><td>Common</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>Revenue Sharing Model Management</td><td>&lt;p&gt;Revenue Sharing Model Management API goal is to provide the ability to manage a revenue sharing model. This revenue sharing model allows to contain revenue sharing models that define how revenue is shared by an enterprise with one or more other parties. &lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0&lt;/pr&gt;
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+&lt;p&gt;21-Jan-2026 The CTK and RI have been re-released in a dockerized format, this may require different set up requirements and any automation platforms will need to be updated. Click &lt;a href="https://projects.tmforum.org/wiki/display/API/TM+Forum+Open+API+Conformance+Testing+and+Validation+Instructions+Page" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     class="styled-link"&gt;
+    here for more information&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt;
+
+
+&lt;style&gt;
+.styled-link {
+  color: blue;               /* hyperlink blue */
+  text-decoration: underline; /* underline like a normal link */
+  cursor: pointer;           /* hand cursor on hover */
+}
+.styled-link:visited {
+  color: purple;             /* optional: visited link color */
+}
+.styled-link:hover {
+  color: darkblue;           /* hover color */
+}
+&lt;/style&gt;</td><td>TMF738</td><td>Business Partner</td><td>RESTful</td><td>v5.0</td><td>2026-05-08</td><td>Production</td></tr><tr><td>Outage Management API</td><td>&lt;p&gt;The Outage Management API enables telecommunications operators to capture, manage, and share network outage and service disruption details with customers, partners, and regulatory bodies. It provides comprehensive information on impacted services, affected regions, estimated restoration times, and historical outage records.
+By standardizing outage communication, the API improves customer transparency, supports regulatory compliance, and enhances operational efficiency. Operators can minimize customer frustration, reduce reputational risks, and streamline customer support by making accurate and timely outage details accessible across multiple channels, including websites, portals, and notifications.&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt; v5.0.0&lt;/p&gt;
+&lt;p&gt;4-September-2025  v5.0.0 preview release with OAS, User Guide and Conformance Profile.&lt;/p&gt;</td><td>TMF777</td><td>Service</td><td>RESTful</td><td>N/A</td><td></td><td></td></tr><tr><td>Service Test Management API</td><td>&lt;p&gt;The Service Test API provides a standardized mechanism for placing a service test with all the necessary test parameters. The API consists of a simple set of operations that interact with CRM/Service Management systems in a consistent manner. A service test is a procedure intended to check the quality, performance, or reliability of a service.&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt; 
+&lt;p&gt;v5.0.0
+&lt;p&gt; 4-Sept-2026  TMF653 v5.0.0  Stable release: Open API Specification (OAS), User Guide, Conformance Profile, Postman Collection, CTK and RI. 
+&lt;p&gt; 12-Aug-2026  TMF653 v5.0.0  RC1 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection. TTMF653 Service Test Management has been updated. The CancelServiceTest resource type has been added, enabling submission and retrieval of service test cancellation requests via POST /cancelServiceTest and GET /cancelServiceTest/{id}, with listener endpoints for create, state change, and information required events. A ServiceTestInformationRequiredEvent listener endpoint has also been added for the existing serviceTest resource. A new GET /hub/{id} operation has been added, and query parameters before, after, sort, and filter have been added to GET /serviceTest and GET /serviceTestSpecification. PATCH responses for /serviceTest/{id} and /serviceTestSpecification/{id} no longer return application/json-patch+json, application/json-patch-query+json, or application/merge-patch+json; only application/json is returned. The ServiceTestSpecRelationship schema has been replaced by ServiceTestRelationship and ServiceTestSpecificationRelationship.
+The following schemas have new required fields:
+* ServiceTestSpecification (PATCH request body): relatedServiceSpecification
+* All ServiceTest*Event and ServiceTestSpecification*Event schemas: event
+* ServiceTest*EventPayload schemas: serviceTest; ServiceTestSpecification*EventPayload schemas: serviceTestSpecification
+Several shared sub-object schemas also have additional required fields: Attachment (attachmentType, mimeType); AttachmentRef (@referredType); CharacteristicSpecification (name, valueType); CharacteristicSpecificationRelationship (name, parentSpecificationId, relationshipType); EntitySpecification (name); EntitySpecificationRelationship (associationSpec, relationshipType, role, validFor); TargetEntitySchema (@type, @schemaLocation); and all typed *Characteristic schemas (value).&lt;/p&gt; 
+&lt;p&gt;
+v4.2 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;
+&lt;br&gt;v4.0.0&lt;/br&gt;
+
+&lt;p&gt;07-Nov-2024 TMF653 v4.0.0 CTK file fix Mac-Linux-RUNCTK.sh modified to remove syntax errors. No impact to awarded Open API Conformance certifications.</td><td>TMF653</td><td>Service</td><td>RESTful</td><td>v5.0</td><td>2026-09-04</td><td>Production</td></tr><tr><td>CDR Transaction Management API</td><td>&lt;p&gt;CDR Transaction Management API goal is to provide the ability to manage a CDR Transaction. This CDR Transaction managing CDR Transactions that define how revenue share is calculated, billed and paid between an enterprise with one or more other parties. &lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0&lt;/pr&gt;
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+&lt;p&gt;21-Jan-2026 The CTK and RI have been re-released in a dockerized format, this may require different set up requirements and any automation platforms will need to be updated. Click &lt;a href="https://projects.tmforum.org/wiki/display/API/TM+Forum+Open+API+Conformance+Testing+and+Validation+Instructions+Page" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     class="styled-link"&gt;
+    here for more information&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt;
+
+&lt;style&gt;
+.styled-link {
+  color: blue;               /* hyperlink blue */
+  text-decoration: underline; /* underline like a normal link */
+  cursor: pointer;           /* hand cursor on hover */
+}
+.styled-link:visited {
+  color: purple;             /* optional: visited link color */
+}
+.styled-link:hover {
+  color: darkblue;           /* hover color */
+}
+&lt;/style&gt;</td><td>TMF735</td><td>Common</td><td>RESTful</td><td>v5.0</td><td>2026-05-08</td><td>Production</td></tr><tr><td>API Design Guidelines</td><td>The “REST API Design Guidelines” document provides guidelines and design patterns used in developing TM Forum REST APIs. The document is organized in seven parts as follow:
+
+Part One: Practical guidelines for RESTful APIs naming, CRUD, filtering, notifications
+Part Two: Advanced guidelines for RESTful APIs polymorphism, extension patterns, depth and expand directive, entity RefOrValue
+Part Three: Guidelines for extending TMF Open APIs with hypermedia support
+Part Four: Advanced guidelines for RESTful APIs lifecycle management, common tasks
+Part Five: JSON Patch extension to manage arrays
+Part Six: JSON Path extension
+Part Seven: JSON Schema patterns</td><td>TMF630</td><td></td><td></td><td>N/A</td><td></td><td></td></tr><tr><td>Service Quality Management Management API</td><td>&lt;p&gt;Through this API, any Enterprise is able to access a Service Quality Management application and extract Service Level Specifications and associated Service Level Objectives (SLO) and their thresholds.&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;&lt;/br&gt;
+&lt;p&gt;
+15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;
+&lt;br&gt;v4.0.0 &lt;/br&gt;
+&lt;p&gt;23 Jan 2025 TMF657 v4.0.0 CTK update .json and .html are now available when you run CTK 
+../htmlResults.html  
+../jsonResults.json &lt;/p&gt;
+&lt;p&gt;07 No  2024 TMF657 v4.0.0 CTK file fix Mac-Linux-RUNCTK.sh modified to remove syntax errors. No impact to awarded Open API Conformance certifications.&lt;/p&gt;
+&lt;p&gt;22 Sep 2021&lt;/p&gt; Stable release: OAS, User Guide, Conformance profile, CTK, RI and postman released.</td><td>TMF657</td><td>Service</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>Resource Qualification API</td><td>The Resource Qualification API efficiently provides and recommends resource instances within networked environments based on client or front-end system inputs.  Its functionality is read-only, meaning it does not configure, update, or modify resource instances. Instead, it focuses on reducing operational inefficiencies by checking or query resource instances.
+&lt;p&gt;&lt;b&gt;v5.0.0&lt;/b&gt;&lt;/p&gt;
+25-Sept-2026 – TMF761 v5.0.0 RC4 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection.
+&lt;p&gt;
+18-Sept-2026 – TMF761 v5.0.0 RC3 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection.
+&lt;p&gt;
+11-Sept-2026 – TMF761 v5.0.0 RC2 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection.
+&lt;p&gt;</td><td>TMF761</td><td>Resource</td><td>RESTful</td><td>N/A</td><td></td><td></td></tr><tr><td>Open Gateway Onboarding and Ordering Component Suite</td><td>&lt;p&gt;API Ordering, Developer & Application Onboarding and Management This Operate API component suite covers the onboarding operations between Channel Partners and Operators as described in the GSMA Playbook. It offers a consolidation of multiple TMForum-based APIs into a single endpoint (a component suite). This API focusses on:  Developer Management (acceptance, on boarding, lifecycle management) and  Application Management (acceptance, on boarding, lifecycle management)&lt;br/&gt;
+&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt; v5.2.1&lt;/p&gt;
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+&lt;p&gt;21-Jan-2026 The CTK and RI have been re-released in a dockerized format, this may require different set up requirements and any automation platforms will need to be updated. Click &lt;a href="https://projects.tmforum.org/wiki/display/API/TM+Forum+Open+API+Conformance+Testing+and+Validation+Instructions+Page" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     class="styled-link"&gt;
+    here for more information&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt;
+&lt;p&gt;19-Dec-2025  v5.2.1 stable release: OAS, User Guide, Conformance profile, CTK, VS, and Postman.Conformance Profile now includes an additional comment for the optional attribute approvedProductOfferingTermOrCondition.applicationLegalBasisForInputData, offering guidance on GDPR-related data processing.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt; v5.2.0&lt;/p&gt;
+&lt;p&gt;13-June-2025  v5.2.0 stable release: OAS, User Guide, Conformance profile, CTK, VS, and Postman updated with support for product bundles, new query parameters, and improved TMF936-aligned examples. Requires docker desktop for CTK+ VS(RI)&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt; v5.1.2&lt;/p&gt;
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+&lt;p&gt; 22-Jan-2026 A compliance note for specific geographies was added; no changes were made beyond the conformance profile. Patch fix to Conformance profile&lt;p&gt;
+&lt;p&gt;21-Jan-2026 The CTK and RI have been re-released in a dockerized format, this may require different set up requirements and any automation platforms will need to be updated. Click &lt;a href="https://projects.tmforum.org/wiki/display/API/TM+Forum+Open+API+Conformance+Testing+and+Validation+Instructions+Page" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     class="styled-link"&gt;
+    here for more information&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt;
+&lt;p&gt;03-June-2025  v5.1.2 stable release: CTK: Bugfix on the HTML report to access from run directory of CTK.&lt;/p&gt;
+&lt;p&gt; v5.1.2&lt;/p&gt;
+&lt;p&gt;28-Feb-2025  v5.1.2 stable release: CTK, RI and Postman collection.&lt;/p&gt;
+&lt;p&gt; v5.1.2&lt;/p&gt;
+&lt;p&gt;06-Feb-2025  v5.1.2 stable release: fixes some inconsistencies, mainly on examples.&lt;/p&gt;
+&lt;p&gt; v5.1.1&lt;/p&gt;
+&lt;p&gt;02-Dec-2024  v5.1.1 preview release:  Conformance profile: minor bug fixes released.&lt;/p&gt;
+&lt;p&gt;22-Nov-2024  v5.1.1 preview release:  Conformance profile and User Guide: minor bug fixes released.&lt;/p&gt;
+&lt;p&gt;01-Nov-2024  v5.1.1 preview release:  OAS v5.1.1 The 5.1 brings new requirements from GSMA to allow more use cases regarding legislations constraints including last stable version of W3C DPV values to fulfill GDPR requirements. There are also some improvements on modelling and descriptions. All changes are detailed in "Acknowledgements" chapter of the User Guide.&lt;/p&gt;
+&lt;p&gt;01-Aug-2024 v5.1.0 preview release: The 5.1 brings new requirements from GSMA to allow more use cases regarding legislations constraints. There are also some improvements on modelling and descriptions. All changes are detailled in "Acknowledgements" chapter of the User Guide.&lt;/p&gt;
+&lt;br&gt;v5.0.0 
+&lt;p&gt;16 Sept 2024 v5.0.0 stable release: fix for Postman Collection has bad indentation.
+&lt;p&gt; 21 Feb 2024 v5.0.0 stable release.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;This API is an Open Gateway Operate API, produced within the 
+  &lt;a href="https://www.gsma.com/solutions-and-impact/gsma-open-gateway/joint-certification-program-gsma-tm-forum/" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     class="styled-link"&gt;
+    GSMA Open Gateway&lt;/a&gt; initiative.&lt;/b&gt;&lt;/p&gt;
+
+&lt;style&gt;
+.styled-link {
+  color: blue;               /* hyperlink blue */
+  text-decoration: underline; /* underline like a normal link */
+  cursor: pointer;           /* hand cursor on hover */
+}
+.styled-link:visited {
+  color: purple;             /* optional: visited link color */
+}
+.styled-link:hover {
+  color: darkblue;           /* hover color */
+}
+&lt;/style&gt;</td><td>TMF931</td><td>Common</td><td>RESTful</td><td>v5.2</td><td>2026-05-08</td><td>Production</td></tr><tr><td>Revenue Sharing Algorithm Management API</td><td>&lt;p&gt;Revenue Sharing Algorithm Management API goal is to provide the Algorithm to calculate a revenue share.&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0&lt;/pr&gt;
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+&lt;p&gt;21-Jan-2026 The CTK and RI have been re-released in a dockerized format, this may require different set up requirements and any automation platforms will need to be updated. Click &lt;a href="https://projects.tmforum.org/wiki/display/API/TM+Forum+Open+API+Conformance+Testing+and+Validation+Instructions+Page" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     class="styled-link"&gt;
+    here for more information&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt;
+
+
+&lt;style&gt;
+.styled-link {
+  color: blue;               /* hyperlink blue */
+  text-decoration: underline; /* underline like a normal link */
+  cursor: pointer;           /* hand cursor on hover */
+}
+.styled-link:visited {
+  color: purple;             /* optional: visited link color */
+}
+.styled-link:hover {
+  color: darkblue;           /* hover color */
+}
+&lt;/style&gt;</td><td>TMF736</td><td>Business Partner</td><td>RESTful</td><td>v5.0</td><td>2026-05-08</td><td>Production</td></tr><tr><td>Trouble Ticket Management API</td><td>&lt;p&gt;Provides a standardized client interface to Trouble Ticket Management Systems for creating, tracking and managing trouble tickets among partners as a result of an issue or problem identified by a customer or another system. Examples of Trouble Ticket API clients include CRM applications, network management or fault management systems, or other trouble ticket management systems (e.g. B2B).&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt; v5.0.0&lt;/p&gt;
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+&lt;p&gt;21-Jan-2026 The CTK and RI have been re-released in a dockerized format, this may require different set up requirements and any automation platforms will need to be updated. Click &lt;a href="https://projects.tmforum.org/wiki/display/API/TM+Forum+Open+API+Conformance+Testing+and+Validation+Instructions+Page" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     class="styled-link"&gt;
+    here for more information&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt; 
+&lt;p&gt; 18 July 2025 patch release v5.0.1: User Guide: reflects corrections in examples and alignment with the updated OAS template.&lt;/p&gt;
+&lt;p&gt; 27-Aug-2024 v5.0.0 Conformance profile documentation fix: in Definitions for Filter section: All our APIs have mandatory GET operations.&lt;/p&gt;
+&lt;br&gt; v4.0.0 
+&lt;p&gt;
+15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;
+&lt;p&gt;07-Nov-2024 TMF621 v4.0.0 CTK file fix Mac-Linux-RUNCTK.sh modified to remove syntax errors. No impact to awarded Open API Conformance certifications.
+
+&lt;style&gt;
+.styled-link {
+  color: blue;               /* hyperlink blue */
+  text-decoration: underline; /* underline like a normal link */
+  cursor: pointer;           /* hand cursor on hover */
+}
+.styled-link:visited {
+  color: purple;             /* optional: visited link color */
+}
+.styled-link:hover {
+  color: darkblue;           /* hover color */
+}
+&lt;/style&gt;</td><td>TMF621</td><td>Common</td><td>RESTful</td><td>v5.0</td><td>2026-05-08</td><td>Production</td></tr><tr><td>Payment Management API</td><td>&lt;p&gt;The Payments API provides the standardized client interface to Payment Systems for notifying about performed payments or refunds. Examples of Payment API originators (clients) include Web servers, mobile app servers, Contact center dashboards or retail store systems. &lt;/p&gt;
+&lt;p&gt;Version History&lt;/p&gt;
+&lt;p&gt;15 May 2026 – CTK updated
+date query parameters previously required values to be enclosed in double quotes. This has been corrected — dates are now passed unquoted. docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration. &lt;/p&gt;
+&lt;p&gt;12 Mar 2026 TMF676 v4.0.0 release: This update includes fixes and minor improvements to the CTK and Reference Implementation.
+The update corrects the use of a string for a datetime filter parameter, which has now been aligned to the proper ISO 8601 date-time format. README files have also been improved with clearer guidance, including suggested proxy configuration for Docker images to support testing vendor implementations across different networks.
+The Docker image tag has been incremented from v1.0.0 to v1.0.1 to reflect this patch update.&lt;/p&gt;</td><td>TMF676</td><td>Customer</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>Usage Consumption Management API</td><td>&lt;p&gt;&lt;span style="color: rgb(51,51,51);"&gt;This API provides the real-time value within buckets (SMS, Voice, Data, TV for example) that a customer consumes with each of their devices, related to subscribed communication products without having to wait for the bill cycle. A usage report retrieves the data related to these balances.&lt;/span&gt;&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.1&lt;/pr&gt;
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;
+22-Apr-2026 - Usage Consumption API v5.1.0 Stable release:&lt;/b&gt; Open API Specification (OAS), User Guide, Conformance Profile, Postman Collection, CTK and RI. This API to bring in line with current schemas and facilitate an updated CTK build.&lt;/p&gt;
+&lt;p&gt;08-Apr-2026 – TMF677 v5.1 Preview release: Open API Specification (OAS), User Guide,  Conformance Profile, and Postman Collection&lt;/p&gt;
+&lt;p&gt;
+Update: Refresh of TMF677 Usage Consumption API to bring in line with current schemas and facilitate an updated CTK build&lt;/p&gt;
+
+&lt;p&gt;v5.0&lt;/pr&gt;
+&lt;p&gt;4-September-2025  v5.0 stable release: OAS, User Guide, Conformance profile, CTK, VS, and Postman.&lt;/p&gt;
+&lt;p&gt; 18 July 2025 TMF677 preview release v5.0.0: Conformance Profile
+&lt;p&gt;09 Jan 2025 preview release v5.0: Open API Specification (OAS), user guide&lt;/p&gt;
+&lt;br&gt;v4.0.0&lt;/br&gt;
+&lt;p&gt;
+15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;
+&lt;p&gt;01 Jul 2021 v4.0 stable release: OAS, user guide, conformance profile, CTK, RI and postman 
+&lt;/p&gt;</td><td>TMF677</td><td>Product</td><td>RESTful</td><td>v5.1</td><td>2026-05-08</td><td>Production</td></tr><tr><td>Product Catalog Management API</td><td>&lt;p&gt;Provides a standardized solution for rapidly adding partners’ products to an existing Catalog. It brings the capability for Service Providers to directly feed partners systems with the technical description of the products they propose to them. &lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt; 
+&lt;p&gt;21-Jan-2026 The CTK and RI have been re-released in a dockerized format, this may require different set up requirements and any automation platforms will need to be updated. Click &lt;a href="https://projects.tmforum.org/wiki/display/API/TM+Forum+Open+API+Conformance+Testing+and+Validation+Instructions+Page" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     class="styled-link"&gt;
+    here for more information&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt;
+&lt;p&gt; 23 Jan 2025 TMF620 v5.0.0 Sample implementation / RI file update: TMF620 v5.0.0 PATCH error fixed
+&lt;p&gt;18 Nov 2024 TMF620 v5.0.0 CTK update: Removed duplicate files. Updated CTK tests for TMF620 v5.0.0 these are now correct.&lt;/p&gt;23
+&lt;p&gt;16 Aug 2024 TMF620 v5.0.0 CTK update: fixed the executable and implemented the resources as defined in the conformance profile &lt;/p&gt;
+&lt;p&gt;02 Jul 2021&lt;/p&gt; Stable release: OAS, User Guide, Conformance profile, CTK, RI released.
+&lt;br&gt;v4.1.0&lt;/p&gt;
+&lt;p&gt;
+15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;
+07 Nov 2024  TMF620 v4.1.0 CTK file fix Mac-Linux-RUNCTK.sh modified to remove syntax errors. No impact to awarded Open API Conformance certifications.
+
+&lt;style&gt;
+.styled-link {
+  color: blue;               /* hyperlink blue */
+  text-decoration: underline; /* underline like a normal link */
+  cursor: pointer;           /* hand cursor on hover */
+}
+.styled-link:visited {
+  color: purple;             /* optional: visited link color */
+}
+.styled-link:hover {
+  color: darkblue;           /* hover color */
+}
+&lt;/style&gt;</td><td>TMF620</td><td>Product</td><td>RESTful</td><td>v5.0</td><td>2025-05-08</td><td>Production</td></tr><tr><td>Open Gateway Product Catalog API</td><td>&lt;p&gt;The TMF936 Operate Product Catalog API v5.0.0 is part of the TM Forum Open API standards and is designed to support the management and synchronization of product catalogs within telecommunications and digital service ecosystems. This API provides standardized operations for defining, updating, and managing product offerings, specifications, and pricing across multiple partners and platforms.&lt;br/&gt;
+&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt; v5.0.0&lt;/p&gt;
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+&lt;p&gt;21-Jan-2026 The CTK and RI have been re-released in a dockerized format, this may require different set up requirements and any automation platforms will need to be updated. Click &lt;a href="https://projects.tmforum.org/wiki/display/API/TM+Forum+Open+API+Conformance+Testing+and+Validation+Instructions+Page" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     class="styled-link"&gt;
+    here for more information&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt;
+&lt;p&gt;27-August-2025  v5.0.0 stable release: OAS, User Guide, Conformance profile, CTK, VS, and Postman.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;b&gt;This API is an Open Gateway Operate API, produced within the 
+  &lt;a href="https://www.gsma.com/solutions-and-impact/gsma-open-gateway/joint-certification-program-gsma-tm-forum/" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     class="styled-link"&gt;
+    GSMA Open Gateway&lt;/a&gt; initiative.&lt;/b&gt;&lt;/p&gt;
+
+&lt;style&gt;
+.styled-link {
+  color: blue;               /* hyperlink blue */
+  text-decoration: underline; /* underline like a normal link */
+  cursor: pointer;           /* hand cursor on hover */
+}
+.styled-link:visited {
+  color: purple;             /* optional: visited link color */
+}
+.styled-link:hover {
+  color: darkblue;           /* hover color */
+}
+&lt;/style&gt;</td><td>TMF936</td><td>Product</td><td>RESTful</td><td>v5.0</td><td>2026-05-08</td><td>Production</td></tr><tr><td>Alarm Management API</td><td>&lt;p&gt;The Alarm Management API applies lessons that were learned in previous generations of similar APIs that were implemented in the Telecommunication industry, starting from ITU recommendations, TM Forum OSS/J, MTOSI and TIP interfaces, NGMN alignment initiative between 3GPP and TM Forum interfaces, and the more recent ETSI work on requirements for NFV interfaces.&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0&lt;/pr&gt;
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+&lt;p&gt;21-Jan-2026 The CTK and RI have been re-released in a dockerized format, this may require different set up requirements and any automation platforms will need to be updated. Click &lt;a href="https://projects.tmforum.org/wiki/display/API/TM+Forum+Open+API+Conformance+Testing+and+Validation+Instructions+Page" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     class="styled-link"&gt;
+    here for more information&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt; 
+&lt;p&gt;09 Jan 2025 CTK updates:  CTK tested against the supplied RI and both an html and json report are now created in a unix environment.&lt;/p&gt;
+&lt;p&gt;25 Jul 2024 Open API Specification (OAS) v5.0.1 release fixes  v5.0.0 OAS & Governance validation errors&lt;/p&gt;
+&lt;p&gt;18 Dec 2023 stable release v5.0.0 OAS, user guide, conformance   profile, CTK, RI, postman released.&lt;/p&gt;
+
+&lt;br&gt;v4.0.0&lt;/br&gt;
+&lt;p&gt;
+15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;
+&lt;p&gt;07-Nov-2024 TMF639 v4.0.0 CTK file fix Mac-Linux-RUNCTK.sh modified to remove syntax errors. No impact to awarded Open API Conformance certifications.
+&lt;p&gt;09 Jul 2021 v4.0.0  stable release OAS, user guide, conformance profile, CTK, RI and postman. &lt;/p&gt;
+
+
+&lt;style&gt;
+.styled-link {
+  color: blue;               /* hyperlink blue */
+  text-decoration: underline; /* underline like a normal link */
+  cursor: pointer;           /* hand cursor on hover */
+}
+.styled-link:visited {
+  color: purple;             /* optional: visited link color */
+}
+.styled-link:hover {
+  color: darkblue;           /* hover color */
+}
+&lt;/style&gt;</td><td>TMF642</td><td>Resource</td><td>RESTful</td><td>v5.0</td><td>2026-05-08</td><td>Production</td></tr><tr><td>Customer Bill Management API</td><td>&lt;p&gt;This API allows operations to find and retrieve one or several customer bills (also called invoices) produced for a customer also allows operations to find and retrieve the details of applied customer billing rates presented on a customer bill.&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0&lt;/pr&gt;
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+
+&lt;p&gt;21-Jan-2026 The CTK and RI have been re-released in a dockerized format, this may require different set up requirements and any automation platforms will need to be updated. Click &lt;a href="https://projects.tmforum.org/wiki/display/API/TM+Forum+Open+API+Conformance+Testing+and+Validation+Instructions+Page" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     class="styled-link"&gt;
+    here for more information&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt;
+
+&lt;style&gt;
+.styled-link {
+  color: blue;               /* hyperlink blue */
+  text-decoration: underline; /* underline like a normal link */
+  cursor: pointer;           /* hand cursor on hover */
+}
+.styled-link:visited {
+  color: purple;             /* optional: visited link color */
+}
+.styled-link:hover {
+  color: darkblue;           /* hover color */
+}
+&lt;/style&gt;
+
+&lt;p&gt;
+V4.0 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;</td><td>TMF678</td><td>Customer</td><td>RESTful</td><td>v5.0</td><td>2026-05-08</td><td>Production</td></tr><tr><td>Recommendation Management API</td><td>&lt;p&gt;Recommendation API is used to recommend offering quickly based on the history and real-time context of a customer. It is a real-time and personalized recommendation API. It is usually provided by e-commerce or BSS, CRM system in omnichannel.&lt;/p&gt;
+&lt;p&gt;
+V4.0 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;</td><td>TMF680</td><td>Customer</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>Stock Management API</td><td>The Stock Management API provides standardized mechanism for product stock management such as creation, update and retrieval of the representation of a product stock, reserve product stock, check or query product stock or adjust product stock. It also allows the notification of events related to them.
+&lt;p&gt; Release history
+&lt;p&gt;v5.0.0
+&lt;p&gt; 25-Sept-2026  TMF687 v5.0.0 RC2 Preview release: Open API Specification (OAS), User Guide, Conformance profile, and Postman.&lt;/p&gt;
+&lt;p&gt; 18-Sept-2026  TMF687 v5.0.0 RC1 Preview release: Open API Specification (OAS), User Guide, Conformance profile, and Postman.&lt;/p&gt;
+&lt;p&gt; v4.0.0
+&lt;p&gt;
+V4.0 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;
+&lt;p&gt; 04-Nov-2024 v4.0.0 CTK fixes released, CTK  allows for 200 or 206 on
+&lt;br&gt;  /ProductStock?fields=id
+&lt;br&gt;  /ProductStock?id=IDPS01
+&lt;br&gt;  /ReserveProductStock?fields=id 
+&lt;p&gt; 24-Oct-2024 v4.0.0 CTK fixes released, CTK  allows for 200 or 206 
+&lt;p&gt; 30-Aug-2024 v4.0.0 CTK fixes released</td><td>TMF687</td><td>Resource</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>Product Configuration Management API</td><td>&lt;p&gt;The Product Configuration API drives the configuration of new product offerings and modification of existing products for various user engagement channels. The Product Configuration API uses product catalog data, policy data, and existing product inventory data to assist engagement managent systems with product configuration. Product configuration may include setting and restrincting characteristic values, enforcing min/max on bundle offering groups and options, and calculation of prices and discounts.&lt;/p&gt;
+
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0&lt;/pr&gt; 
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+&lt;p&gt;21-Jan-2026 The CTK and RI have been re-released in a dockerized format, this may require different set up requirements and any automation platforms will need to be updated. Click &lt;a href="https://projects.tmforum.org/wiki/display/API/TM+Forum+Open+API+Conformance+Testing+and+Validation+Instructions+Page" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     class="styled-link"&gt;
+    here for more information&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt;
+&lt;p&gt;16 Aug 2024: CTK update:  fixed Bat Windows execution
+
+
+&lt;style&gt;
+.styled-link {
+  color: blue;               /* hyperlink blue */
+  text-decoration: underline; /* underline like a normal link */
+  cursor: pointer;           /* hand cursor on hover */
+}
+.styled-link:visited {
+  color: purple;             /* optional: visited link color */
+}
+.styled-link:hover {
+  color: darkblue;           /* hover color */
+}
+&lt;/style&gt;</td><td>TMF760</td><td>Customer</td><td>RESTful</td><td>v5.0</td><td>2026-05-08</td><td>Production</td></tr><tr><td>Digital Identity Management API</td><td>Provides the ability to manage a digital identity. This digital identity allows identification of an individual, a resource, or a partyRole (a specific role - or set of roles - for a given individual). A digital identity is associated with credential / authentication method. These credential / authentication methods should be extensible to describe all types of authentication methods such as login/password, biometric, token, etc. A contact medium is also associated with digital identity (or directly at credential level) to manage credential recovery UCs.
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0&lt;/p&gt;
+&lt;p&gt; 18 July 2025 preview release v5.0.0: Open API Specification (OAS), User Guide, Conformance Profile&lt;/p&gt;
+22-Nov-2024 TMF720 v5.0.0  updates to User Guide  released &lt;/p&gt;
+14-Nov-2024 TMF720 v5.0.0  OAS and User Guide  preview release &lt;/p&gt;
+&lt;br&gt;v4.0.0&lt;/br&gt;
+&lt;p&gt;
+15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;
+&lt;p&gt;07-Nov-2024 TMF645 v4.0.0 CTK file fix Mac-Linux-RUNCTK.sh modified to remove syntax errors. No impact to awarded Open API Conformance certifications.</td><td>TMF720</td><td>Common</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>Test Data Management API</td><td>This API provides a standardized mechanism for the management of test data artefacts used for test case parameterization. These include Test Data Schemas and Test Data Instances.
+&lt;p&gt;
+V4.0 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;</td><td>TMF706</td><td>Common</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>Test Result Management API</td><td>This API provides a standardized mechanism for the management of test results. These include Test Case Results, Test Suite Results, and Non-functional Test Results.pro
+&lt;p&gt; 27-Aug-2024 v4.0.0 CTK fixes released
+&lt;p&gt;
+V4.0 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;</td><td>TMF707</td><td>Common</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>Open Gateway Product Usage API</td><td>&lt;p&gt;
+The TMF937 Open Gateway Product Usage API v5.0.0 defines an asynchronous bulk export mechanism for exchanging aggregated ProductUsage records between Operators and Channel Partners. It standardizes usage collection, reporting, reconciliation, and settlement processes for Open Gateway APIs, supporting both rated and non-rated commercial models. The API aligns with the TMF635 v5.0 information model.
+&lt;br/&gt;
+&lt;/p&gt;
+
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+
+&lt;p&gt;&lt;b&gt;v5.0.00-rc1&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;
+27-February-2026 v5.0.0 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection.
+&lt;/p&gt;
+
+&lt;br&gt;
+
+&lt;p&gt;&lt;b&gt;This API is an Open Gateway Operate API, produced within the 
+  &lt;a href="https://www.gsma.com/solutions-and-impact/gsma-open-gateway/joint-certification-program-gsma-tm-forum/" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     class="styled-link"&gt;
+    GSMA Open Gateway&lt;/a&gt; initiative.&lt;/b&gt;&lt;/p&gt;
+
+&lt;style&gt;
+.styled-link {
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.styled-link:visited {
+  color: purple;
+}
+.styled-link:hover {
+  color: darkblue;
+}
+&lt;/style&gt;</td><td>TMF937</td><td>Product</td><td>RESTful</td><td>N/A</td><td></td><td></td></tr><tr><td>Test Scenario Management API</td><td>This API provides a standardized mechanism for the management of test scenarios. Test scenarios provide a full specification of required test elements, e.g. Test Case T parameterized with test data instance D running on abstract test environment E provisioned with a set of provisioning artefacts P.
+&lt;p&gt; 30-Aug-2024 v4.0.0 CTK fixes released
+&lt;p&gt;
+V4.0 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;</td><td>TMF709</td><td>Common</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>Process Management API</td><td>&lt;p&gt;The Process Management API allows management of business process. It provides all required information to achieve business task requiring manual action:&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0&lt;/pr&gt;
+&lt;p&gt;
+11-Sept-2026 – TMF701 v5.0.0 Stable release: Open API Specification (OAS), User Guide, Conformance Profile, Postman Collection, CTK and RI.
+&lt;/p&gt;
+&lt;p&gt;
+20-Aug-2026 – TMF701 v5.0.0 RC4 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection. Minor updates include removing HTTP 404 responses from collection operations, updating all resources to use the most recent schemas, and making the Process DELETE endpoint optional.
+&lt;/p&gt;
+&lt;p&gt;
+04-Jun-2026 – TMF701 v5.0.0 RC3 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection. This minor update includes improvements to the User Guide and Conformance Profile. In addition, the &lt;code&gt;@referredType&lt;/code&gt; field on the &lt;code&gt;TaskRef&lt;/code&gt; schema is now marked as mandatory to improve interoperability and consistency across implementations. This release also includes updates to resource naming to improve alignment and simplify the API model, where ProcessFlow has been renamed to Process, ProcessFlowSpecification to ProcessSpecification, TaskFlow to Task, and TaskFlowSpecification to TaskSpecification.
+&lt;/p&gt;
+
+&lt;p&gt; 20-May-2026 TMF701 preview release v5.0.0: Open API Specification (OAS), User Guide, Conformance Profile, Postman Collection.&lt;/p&gt;
+&lt;br&gt; 20-Sept-2024 release: OAS v4.1.0 update for: &lt;br&gt;processFlowSpecification attribute (string) of ProcessFlow resource : change it from required (in the POST) to optional. This is backward compatible change.  Conformance profile is now compatible with the swagger.
+ </td><td>TMF701</td><td>Common</td><td>RESTful</td><td>v5.0</td><td>2026-09-11</td><td>Production</td></tr><tr><td>Resource Inventory Management API</td><td>&lt;p&gt;
+The intent of this API is to provide a consistent and standardized mechanism to query and manipulate the Resource inventory.
+&lt;/p&gt;
+
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+
+&lt;p&gt;&lt;b&gt;v5.0.0&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+&lt;p&gt;
+08-Apr-2026 – TMF639 v5.0.0 Stable release: Open API Specification (OAS), User Guide, Conformance Profile, Postman Collection, CTK and RI
+&lt;/p&gt;
+
+&lt;p&gt;
+20-Mar-2026 – TMF639 v5.0.0 RC2 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection. 
+Includes a fix addressing misalignment between the Conformance Profile and OAS for &lt;code&gt;supportingResource&lt;/code&gt;. The Conformance Profile previously marked &lt;code&gt;@referredType&lt;/code&gt; as mandatory, while the OAS defines &lt;code&gt;supportingResource&lt;/code&gt; using a polymorphic &lt;code&gt;oneOf&lt;/code&gt; (Resource or ResourceRef), where &lt;code&gt;@referredType&lt;/code&gt; is not consistently required. This update aligns the definitions to ensure consistency across assets.
+&lt;/p&gt;
+
+&lt;p&gt;
+11-Mar-2026 – TMF639 v5.0.0 RC1 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;v4.0.0&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;
+&lt;p&gt;
+07-Nov-2024 – TMF639 v4.0.0 CTK file fix: Mac-Linux-RUNCTK.sh modified to remove syntax errors. No impact to awarded Open API Conformance certifications.
+&lt;/p&gt;</td><td>TMF639</td><td>Resource</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>Geographic Site Management API</td><td>&lt;p&gt;Covers the operations to manage (create, read, delete) sites that can be associated with a customer, account, service delivery or other entities. This API defines a Site as a convenience class that allows easy reference to places important to other entities, where a geographic place is an entity that can answer the question “where?”&lt;/p&gt;
+
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt; 
+&lt;p&gt;&lt;b&gt;v5.0.0&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+05-Aug-2026 – TMF674 v5.0.0 Stable release including the Open API Specification (OAS), User Guide, Conformance Profile, Postman Collection, Sample Implementation Code, and Conformance Test Kit (CTK).
+&lt;/p&gt;
+&lt;p&gt; 20-May-2026 TMF674 v5.0.0-rc.2: Updated to reflect that fields marked as required in schemas should also be included in response payloads to provide a meaningful representation of the resource for validation and integrations. Be aware that some formerly optional fields are now correctly marked as required in this release.&lt;/p&gt;
+&lt;p&gt;
+08-Apr-2026 –TMF674 v5.0.0-rc.2 :Make referredType required on the AttachmentRef schema to enable polymorphic support in a wider selection of tools.
+&lt;/p&gt;
+&lt;p&gt;
+31-Mar-2026 TMF674 v5.0.0 preview release: Open API Specification, User Guide, Postman Collection, and Conformance Profile.
+&lt;/p&gt;
+&lt;p&gt;
+V4.0 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;</td><td>TMF674</td><td>Common</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>Geographic Address Management API</td><td>&lt;p&gt;Provides a standardized client interface to an Address management system. It allows looking for worldwide addresses. It can also be used to validate geographic address data, to be sure that it corresponds to a real geographic address. Finally, it can be used to look for a geographic address by: searching an area as a start (city, town ...), then zooming on the streets of this area, and finally listing all the street segments (numbers) in a street.&lt;/p&gt;
+&lt;p&gt;Version history&lt;/p&gt;
+&lt;p&gt;15 May 2026 – v4.0.0 CTK updated
+date query parameters previously required values to be enclosed in double quotes. This has been corrected — dates are now passed unquoted. docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration. &lt;/p&gt;
+&lt;p&gt;12 Mar 2026 TMF673 v4.0.0 release: This update includes fixes and minor improvements to the CTK and Reference Implementation.
+The update corrects the use of a string for a datetime filter parameter, which has now been aligned to the proper ISO 8601 date-time format. README files have also been improved with clearer guidance, including suggested proxy configuration for Docker images to support testing vendor implementations across different networks.
+The Docker image tag has been incremented from v1.0.0 to v1.0.1 to reflect this patch update.&lt;/p&gt;
+</td><td>TMF673</td><td>Common</td><td>RESTful</td><td>v4.0</td><td></td><td>Production</td></tr><tr><td>Dunning Case Management</td><td>&lt;p&gt;The Dunning Case Management API enables systems to identify, track, and manage outstanding debts resulting from payment refusal or delay. It supports automated recovery through defined strategies, including service suppression.
+ &lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0 rc2&lt;/p&gt;
+&lt;p&gt; 11 March 2026 TMF728 v5.0.0 rc2 Open API Specification (OAS), User Guide, Conformance Profile and Postman Collection
+&lt;/p&gt;
+&lt;p&gt;v5.0.0
+&lt;p&gt; 30 Sep 2025 TMF728 v5.0.0 Open API Specification (OAS), User Guide, Conformance Profile
+&lt;p&gt;</td><td>TMF728</td><td>Common</td><td>RESTful</td><td>N/A</td><td></td><td></td></tr><tr><td>User Role Permission Management API</td><td>&lt;p&gt;
+A user role is defined as the entity that defines a set of privileges covering various functions and/or manageable assets. 
+When a user is assigned a given role then it is actually allocated all the privileges defined for that role type and the corresponding permissions are created for that user.
+&lt;/p&gt;
+
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+&lt;p&gt;08-Apr-2026 – TMF672 User Role Permission Management API
+ v5.1.0 Stable release: Open API Specification (OAS), User Guide, Conformance Profile, Postman Collection, CTK and RI https://www.tmforum.org/open-digital-architecture/open-apis/user-role-permission-management-api-TMF672/v5.1
+&lt;/p&gt;
+&lt;p&gt;
+03-Mar-2026 TMF672 v5.1.0 RC3 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection. Includes a fix addressing ambiguity caused by identical &lt;code&gt;oneOf&lt;/code&gt; schemas in the &lt;code&gt;PartyRefOrPartyRoleRef&lt;/code&gt; definition. A restriction has been added to the allowed value of &lt;code&gt;@type&lt;/code&gt;, enabling broader tooling compatibility without altering the API signatures.
+&lt;/p&gt;
+&lt;p&gt;
+09 Feb 2026 TMF672 v5.1.0 release: Open API Specification (OAS), User Guide, Conformance Profile
+&lt;/p&gt;
+
+&lt;p&gt;
+20 Dec 2024 TMF672 v5.0.0 release: User guide v5.0.1 and Conformance profile v5.0.1 updates made.
+&lt;/p&gt;
+
+&lt;p&gt;
+14 Nov 2024 TMF672 v5.0.0 release: OAS and User guide fixes including example and two minor fixes in schema.
+&lt;/p&gt;
+
+&lt;br&gt;v4.0.0&lt;/p&gt;
+&lt;p&gt;
+V4.0 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;
+&lt;p&gt;
+07-Nov-2024 TMF672 v4.1.0 CTK file fix Mac-Linux-RUNCTK.sh modified to remove syntax errors. 
+No impact to awarded Open API Conformance certifications.
+&lt;/p&gt;
+</td><td>TMF672</td><td>Common</td><td>RESTful</td><td>v5.1</td><td>2026-05-08</td><td>Production</td></tr><tr><td>Performance Thresholding Management API</td><td>Provides a standardized mechanism for performance management such as creation, partial or full update and retrieval of the resources involved in performance management (Measurement Production Job, Measurement Collection Job, and Ad hoc Collection). It allows also notification of events related to performance
+
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0&lt;/p&gt;
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+&lt;p&gt; 31 Mar 2026 stable release: Open API Specification (OAS), User Guide, Conformance Profile, Postman, CTK, RI&lt;/p&gt;
+&lt;p&gt;v5.0.0 rc2&lt;/p&gt;
+&lt;p&gt; 09 Mar 2026 preview release: : Open API Specification (OAS), User Guide, Conformance Profile, Postman Collection&lt;/p&gt; &lt;p&gt;This update includes updated schemas and tooling versions in preparation for promoting this API to product/stable version. The Postman Collection asset is now available.
+ &lt;/p&gt;
+&lt;p&gt;v5.0.0&lt;/p&gt;
+&lt;p&gt; 19 Jan 2026 preview release: Open API Specification (OAS), User Guide, Conformance Profile&lt;/p&gt;</td><td>TMF649</td><td>Common</td><td>RESTful</td><td>v5.0</td><td>2026-05-08</td><td>Production</td></tr><tr><td>Service Activation Management API</td><td>&lt;p&gt;The REST API for Activation and Configuration allows the user to retrieve, create, update, delete services and retrieve the monitor resource used to monitor the execution of asynchronous requests on a specific resource. Although all the examples given in the API specification are relative to Services, the same API can be used to Activate and Configure Services or Resources.&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0&lt;/p&gt;
+01-May-2025 TMF640 v5.0.0  OAS, User Guide and Conformance Profile  preview release &lt;/p&gt;
+&lt;p&gt;v4.0.0&lt;/p&gt;
+&lt;p&gt;15 May 2026 – CTK updated
+date query parameters previously required values to be enclosed in double quotes. This has been corrected — dates are now passed unquoted. docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration. &lt;/p&gt;
+&lt;p&gt;12 Mar 2026 TMF640 v4.0.0 release: This update includes fixes and minor improvements to the CTK and Reference Implementation.
+The update corrects the use of a string for a datetime filter parameter, which has now been aligned to the proper ISO 8601 date-time format. README files have also been improved with clearer guidance, including suggested proxy configuration for Docker images to support testing vendor implementations across different networks.
+The Docker image tag has been incremented from v1.0.0 to v1.0.1 to reflect this patch update.&lt;/p&gt;
+&lt;p&gt;07-Nov-2024 TMF640 v4.0.0 CTK file fix Mac-Linux-RUNCTK.sh modified to remove syntax errors. No impact to awarded Open API Conformance certifications.</td><td>TMF640</td><td>Service</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>Partnership Management API</td><td>&lt;p&gt;Standardized mechanisms for creating partnership types. It is one of the APIs involved in an onboarding process. Identifies a type of partnership between parties, including the list of role types that are permitted (i.e. Buyer, Seller, Developer). Role types may refer to agreement specifications to be signed by parties playing the role. &lt;br/&gt;The API allows the retrieval, creation, update, and deletion of partnership type and its owned sub-resources.&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;br&gt;v4.0.0&lt;/br&gt;
+&lt;p&gt;
+V4.0 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;
+07-Nov-2024  TMF668 v4.0.0 CTK file fix Mac-Linux-RUNCTK.sh modified to remove syntax errors. No impact to awarded Open API Conformance certifications.</td><td>TMF668</td><td>Business Partner</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>Quote Management API</td><td>&lt;p&gt;The Quote API is one of the Pre-Ordering Management APIs. The customer Quote API provides a standardized mechanism for placing a customer quote with all the necessary quote parameters.&lt;/p&gt;
+
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;&lt;b&gt;v5.0.0 rc1&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;13-Mar-2026 TMF648 v5.0.0 rc1 preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection. &lt;/p&gt;
+&lt;p&gt;v5.0.0&lt;/p&gt;
+&lt;p&gt;4-September-2025  v5.0.0 preview release: publish User Guide to match earlier release of OAS and Conformance Profile
+&lt;p&gt; 18 July 2025 TMF648 preview release v5.0.0: Open API Specification (OAS), Conformance Profile
+&lt;p&gt; 29-Aug-2024 v5.0.0 updates to OAS and User Guide released  &lt;/p&gt;
+&lt;br&gt;v4.0.0&lt;/br&gt;
+&lt;p&gt;
+15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;
+&lt;p&gt;07-Nov-2024 TMF648 v4.0.0 CTK file fix Mac-Linux-RUNCTK.sh modified to remove syntax errors. No impact to awarded Open API Conformance certifications.</td><td>TMF648</td><td>Customer</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>Resource Portability API</td><td>The TMF689 Resource Portability API provides a standardized mechanism for managing the portability of telecommunications  resources (such as telephone numbers, network identifiers, and service-related resources) between service providers.
+ 
+&lt;p&gt;This API enables service providers to exchange portability requests in a consistent and interoperable manner, supporting  regulatory requirements for number portability and resource transfer scenarios.
+ 
+&lt;p&gt;Key features include: - Creation and management of portability orders with complete lifecycle tracking - Multi-party coordination between donor (losing) and recipient (gaining) service providers - Customer authorization validation and tracking - Support for both individual and bulk portability requests - Real-time state change notifications for order progress tracking - Flexible activation modes (automatic or manual) for coordinated resource cutover - Comprehensive error handling and information request mechanisms - Cancellation workflows for in-progress portability orders
+ 
+&lt;p&gt;The API integrates with TMF639 Resource Inventory, TMF632 Party Management, TMF673 Geographic Address Management,  and TMF641 Service Ordering to provide end-to-end portability management capabilities.
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0&lt;/pr&gt;
+16-Oct-2026 – TMF689 v5.0.0 Stable release: Open API Specification (OAS), User Guide, Conformance Profile, CTK, RI, and Postman Collection.
+&lt;p&gt; 25-Sept-2026 TMF689 v5.0.0 RC3 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection. &lt;/p&gt;
+&lt;p&gt; 4-Sept-2026 TMF689 v5.0.0 RC2 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection. Updated preview including marking @refrredType as required in ResourceRef, relocation of the ServiceProvider schema to align with the engaged party model, addition of TMF669 Party Role API relationship documentation, and updates to sequence diagrams to better describe service provider interactions and API usage.&lt;/p&gt;
+&lt;p&gt; 20-May-2026 TMF689 preview release v5.0.0: Open API Specification (OAS), User Guide, Conformance Profile, Postman Collection.&lt;/p&gt;</td><td>TMF689</td><td>Resource</td><td>RESTful</td><td>v5.0</td><td>2026-10-16</td><td>Production</td></tr><tr><td>Shopping Cart Management API</td><td>&lt;p&gt;A standardized mechanism for the management of shopping carts. Including creation, update, retrieval, deletion and notification of an event. Shopping Cart entity is used for the temporary selection and reservation of product offerings in e-commerce and retail purchase.&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0&lt;/pr&gt;
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+&lt;p&gt;21-Jan-2026 The CTK and RI have been re-released in a dockerized format, this may require different set up requirements and any automation platforms will need to be updated. Click &lt;a href="https://projects.tmforum.org/wiki/display/API/TM+Forum+Open+API+Conformance+Testing+and+Validation+Instructions+Page" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     class="styled-link"&gt;
+    here for more information&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt;
+
+
+&lt;style&gt;
+.styled-link {
+  color: blue;               /* hyperlink blue */
+  text-decoration: underline; /* underline like a normal link */
+  cursor: pointer;           /* hand cursor on hover */
+}
+.styled-link:visited {
+  color: purple;             /* optional: visited link color */
+}
+.styled-link:hover {
+  color: darkblue;           /* hover color */
+}
+&lt;/style&gt;
+&lt;p&gt;
+V4.0 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;</td><td>TMF663</td><td>Customer</td><td>RESTful</td><td>v5.0</td><td>2026-05-08</td><td>Production</td></tr><tr><td>Resource Catalog Management API</td><td>&lt;p&gt;The Resource Catalog Management API REST specification allows the management of the entire lifecycle of the Resource Catalog elements and the consultation of resource catalog elements during several processes such as ordering process.&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;br&gt; v5.0.0
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+&lt;p&gt;21-Jan-2026 The CTK and RI have been re-released in a dockerized format, this may require different set up requirements and any automation platforms will need to be updated. Click &lt;a href="https://projects.tmforum.org/wiki/display/API/TM+Forum+Open+API+Conformance+Testing+and+Validation+Instructions+Page" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     class="styled-link"&gt;
+    here for more information&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt; 
+&lt;br&gt; v4.1.0 
+&lt;p&gt;15 May 2026 – CTK updated
+date query parameters previously required values to be enclosed in double quotes. This has been corrected — dates are now passed unquoted. docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration. &lt;/p&gt;
+&lt;p&gt;12 Mar 2026 TMF634 v4.1.0 release: This update includes fixes and minor improvements to the CTK and Reference Implementation. The update corrects the use of a string for a datetime filter parameter, which has now been aligned to the proper ISO 8601 date-time format. README files have also been improved with clearer guidance, including suggested proxy configuration for Docker images to support testing vendor implementations across different networks. The Docker image tag has been incremented from v1.0.0 to v1.0.1 to reflect this patch update.&lt;/p&gt;
+
+&lt;p&gt;07-Nov-2024 TMF634  CTK file fix Mac-Linux-RUNCTK.sh modified to remove syntax errors. No impact to awarded Open API Conformance certifications.
+
+&lt;style&gt;
+.styled-link {
+  color: blue;               /* hyperlink blue */
+  text-decoration: underline; /* underline like a normal link */
+  cursor: pointer;           /* hand cursor on hover */
+}
+.styled-link:visited {
+  color: purple;             /* optional: visited link color */
+}
+.styled-link:hover {
+  color: darkblue;           /* hover color */
+}
+&lt;/style&gt;</td><td>TMF634</td><td>Resource</td><td>RESTful</td><td>v5.0</td><td>2026-05-08</td><td>Production</td></tr><tr><td>Entity Catalog Management API</td><td>&lt;p&gt;The entity catalog is intended to provide any SID entity to consumers via a catalog, with its specification and policy providing governance over its content. The API provides management of the entity specifications and their associations through CRUD operations.&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;&lt;/br&gt;
+&lt;br&gt;v4.0.0 &lt;/br&gt;
+&lt;p&gt;15 May 2026 – CTK updated
+date query parameters previously required values to be enclosed in double quotes. This has been corrected — dates are now passed unquoted. docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration. &lt;/p&gt;
+&lt;p&gt;12 Mar 2026 TMF662 v4.0.0 release: This update includes fixes and minor improvements to the CTK and Reference Implementation.
+The update corrects the use of a string for a datetime filter parameter, which has now been aligned to the proper ISO 8601 date-time format. README files have also been improved with clearer guidance, including suggested proxy configuration for Docker images to support testing vendor implementations across different networks.
+The Docker image tag has been incremented from v1.0.0 to v1.0.1 to reflect this patch update.&lt;/p&gt;
+
+07-Nov-2024 TMF662 v4.0.0 CTK file fix Mac-Linux-RUNCTK.sh modified to remove syntax errors. No impact to awarded Open API Conformance certifications.</td><td>TMF662</td><td>Common</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>Account Management API</td><td>&lt;p&gt;Provides standardized mechanism for the management of billing and settlement accounts, as well as for financial accounting (account receivable) either in B2B or B2B2C contexts&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0&lt;/pr&gt;
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+&lt;p&gt;14-Apr-2026 Fixed the oneOf validation logic for BillPresentationMediaRefOrValue and BillFormatRefOrValue schemas when provided payloads matched both branches due to shared inherited properties.&lt;/pr&gt;
+&lt;p&gt;08-Apr-2026 Updated CTK filtering behavior to use evaluable scalar fields instead of object-level query parameters.
+Resolve filter placeholders dynamically from saved POST response data, including nested field paths.&lt;/pr&gt;
+&lt;p&gt;21-Jan-2026 The CTK and RI have been re-released in a dockerized format, this may require different set up requirements and any automation platforms will need to be updated. Click &lt;a href="https://projects.tmforum.org/wiki/display/API/TM+Forum+Open+API+Conformance+Testing+and+Validation+Instructions+Page" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     class="styled-link"&gt;
+    here for more information&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt; 
+&lt;p&gt;23 Jan 2025 CTK update:  ChangeME.json file for POST method of operation  BillingAccount operation, in partyOrPartyRole changed value of @type field from "PartyRefOrPartyRoleRef" to "PartyRef" &lt;/p&gt;
+&lt;p&gt;19 Sep 2023&lt;/p&gt; Stable release: OAS, User Guide, Conformance profile, CTK, RI and postman released.
+
+&lt;style&gt;
+.styled-link {
+  color: blue;               /* hyperlink blue */
+  text-decoration: underline; /* underline like a normal link */
+  cursor: pointer;           /* hand cursor on hover */
+}
+.styled-link:visited {
+  color: purple;             /* optional: visited link color */
+}
+.styled-link:hover {
+  color: darkblue;           /* hover color */
+}
+&lt;/style&gt;
+&lt;p&gt;
+V4.0 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;</td><td>TMF666</td><td>Business Partner</td><td>RESTful</td><td>v5.0</td><td>2026-05-08</td><td>Production</td></tr><tr><td>Service Qualification Management API</td><td>&lt;p&gt;Service Qualification API is one of the Pre-Ordering Management APIs. Service Qualification API goal is to provide service availability at Customer location.&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0 &lt;/p&gt;
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+
+&lt;p&gt;31-Mar-2026 – TMF645 v5.0.0 Updated coversheet for User Guide and Conformance Profile.&lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;17-Mar-2026 – TMF645 v5.0.0 Stable release: Open API Specification (OAS), User Guide, Conformance Profile, Postman Collection, CTK, and Sample implementation code.&lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;v5.0.0 RC2&lt;/p&gt;
+03-March-2026 – TMF645 v5.0.0 RC2 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection. Includes a fix for a problem where identical &lt;code&gt;oneOf&lt;/code&gt; schemas in the &lt;code&gt;PartyRefOrPartyRoleRef&lt;/code&gt; schema were causing ambiguity. Adding a restriction on the allowed value of &lt;code&gt;@type&lt;/code&gt; allows the API to be used with a wider range of tools without altering the API signatures.
+&lt;/p&gt;
+
+&lt;p&gt;v5.0.0 rc1&lt;/p&gt;
+&lt;p&gt;
+12-February-2026 TMF645 v5.0.0 RC1 Preview release with Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection. 
+Includes schema alignment updates, rules.yaml refinements, sample payload corrections, clarification of date attributes, and schema reference corrections.
+&lt;/p&gt;
+&lt;p&gt;v5.0.0&lt;/p&gt;
+&lt;p&gt;4-September-2025  v5.0.0 updated preview release with OAS, User Guide and Conformance Profile, update to current API v5 standards, add missing floatCharacteristic, correct filter parameters, adjust schemas to follow established patterns.&lt;/p&gt;
+14-Nov-2024 TMF645 v5.0.0  OAS and User Guide fix for missing Characteristic subclasses in OAS/user guide &lt;/p&gt;
+&lt;br&gt;v4.0.0&lt;/br&gt;
+&lt;p&gt;
+15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;
+&lt;p&gt;07-Nov-2024 TMF645 v4.0.0 CTK file fix Mac-Linux-RUNCTK.sh modified to remove syntax errors. No impact to awarded Open API Conformance certifications.</td><td>TMF645</td><td>Service</td><td>RESTful</td><td>v5.0</td><td>2026-05-08</td><td>Production</td></tr><tr><td>Product Usage Catalog Management API</td><td>&lt;p&gt;
+TMF767 Product Usage Catalog Management API provides a standardised mechanism for usage management such as creation, update, retrieval, import and export of a collection of product usage. A Product Usage represents an occurrence of usage on a Product derived from various Service usages, which can be further used to generate interest to a billing system, and can have charges applied to it.
+&lt;/p&gt;
+
+&lt;p&gt;
+It is comprised of characteristics which define all attributes known for a particular type of Product Usage.
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt; 
+&lt;p&gt;&lt;b&gt;v5.0.0 &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+&lt;p&gt;31-Mar-2026 – TMF767 v5.0.0 Updated coversheet for User Guide and Conformance Profile.&lt;/p&gt;
+&lt;p&gt;17-Mar-2026 – TMF767 v5.0.0 Stable release: Open API Specification (OAS), User Guide, Conformance Profile, Postman Collection, CTK, and Sample implementation code.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;v5.0.0 RC3&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+03-March-2026 – TMF767 v5.0.0 RC3 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection. Includes a fix for a problem where identical &lt;code&gt;oneOf&lt;/code&gt; schemas in the &lt;code&gt;PartyRefOrPartyRoleRef&lt;/code&gt; schema were causing ambiguity. Adding a restriction on the allowed value of &lt;code&gt;@type&lt;/code&gt; allows the API to be used with a wider range of tools without altering the API signatures.
+&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;v5.0.0 rc1&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+13-February-2026 TMF767 v5.0.0 rc1 preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection. Includes schema updates to ProductUsageSpecification, added Product and Service Usage specification references, removed unused attributes, replaced targetEntitySchema with targetProductUsageSchema, and made name and lifecycleStatus mandatory for create operations.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;v5.0.0&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+14-Oct-2024 TMF767 v5.0.0 preview release: Open API Specification, User Guide and Conformance Profile updates for consistency between Usage APIs: Product Usage, Service Usage and Resource Usage.
+&lt;/p&gt;</td><td>TMF767</td><td>Product</td><td>RESTful</td><td>v5.0</td><td>2026-05-08</td><td>Production</td></tr><tr><td>Resource Order Management API</td><td>&lt;p&gt;
+The REST API for Resource Order Management. It includes the model definition as well as all available operations. Possible actions are creating, updating and retrieving Resource Orders (including filtering). A Resource Order API provides a standard mechanism for placing a Resource Order with all necessary order parameters.
+&lt;/p&gt;
+
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+
+&lt;p&gt;&lt;b&gt;v5.0.0&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;
+04-Jun-2026 – TMF652 v5.0.0 RC3 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection. 
+This updated preview includes minor improvements: the &lt;code&gt;@referredType&lt;/code&gt; field is now mandatory in the &lt;code&gt;ResourceRef&lt;/code&gt; schema to improve interoperability, and outdated references to non-existent fields have been removed from the rules and conformance files to ensure consistency across assets.
+&lt;/p&gt;
+
+&lt;p&gt;
+20-May-2026 TMF652 v5.0.0 RC1 Preview release: Updated to reflect that fields marked as required in schemas should also be included in response payloads to provide a meaningful representation of the resource for validation and integrations. Be aware that some formerly optional fields are now correctly marked as required in this release.&lt;/p&gt;
+&lt;p&gt;
+10-Apr-2026 – TMF652 v5.0.0 RC1 Preview release: Open API Specification (OAS), User Guide, Conformance Profile and Postman collection.
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;p&gt;&lt;b&gt;v4.0.0&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;15 May 2026 – CTK updated
+date query parameters previously required values to be enclosed in double quotes. This has been corrected — dates are now passed unquoted. docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration. &lt;/p&gt;
+&lt;p&gt;
+12-Mar-2026 – TMF652 v4.0.0 release: This update includes fixes and minor improvements to the CTK and Reference Implementation.
+The update corrects the use of a string for a datetime filter parameter, which has now been aligned to the proper ISO 8601 date-time format. README files have also been improved with clearer guidance, including suggested proxy configuration for Docker images to support testing vendor implementations across different networks.
+The Docker image tag has been incremented from v1.0.0 to v1.0.1 to reflect this patch update.
+&lt;/p&gt;
+
+&lt;p&gt;
+</td><td>TMF652</td><td>Resource</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr><tr><td>Intent Management API</td><td>&lt;p&gt;This API allows intents to be expressed, reporting on and negotiated between the intent owner and the intent handler. The Intent API provides specifies the basic attributes and relationships that describe an Intent. The expression attribute of Intent contains a statement of the expectations for an intent in a particular ontology language and is validated by the TM Forum Intent Ontology (TIO).&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0&lt;/pr&gt;
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+&lt;p&gt;17-Apr-2026 Fixed test ordering in the CTK, DELETE Intent now runs after all IntentReport tests to prevent sub-resource tests failing with 404.
+IntentReport endpoints in the RI now return 404 when the parent Intent does not exist, enforcing referential integrity.&lt;/pr&gt;
+&lt;p&gt;21-Jan-2026 The CTK and RI have been re-released in a dockerized format, this may require different set up requirements and any automation platforms will need to be updated. Click &lt;a href="https://projects.tmforum.org/wiki/display/API/TM+Forum+Open+API+Conformance+Testing+and+Validation+Instructions+Page" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     class="styled-link"&gt;
+    here for more information&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt;
+&lt;p&gt;02-Oct-2024 release: v5.0.0 CTK, RI, Postman released. Stable release.
+
+&lt;style&gt;
+.styled-link {
+  color: blue;               /* hyperlink blue */
+  text-decoration: underline; /* underline like a normal link */
+  cursor: pointer;           /* hand cursor on hover */
+}
+.styled-link:visited {
+  color: purple;             /* optional: visited link color */
+}
+.styled-link:hover {
+  color: darkblue;           /* hover color */
+}
+&lt;/style&gt;
+&lt;p&gt;
+V4.0.0 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;</td><td>TMF921</td><td>Common</td><td>RESTful</td><td>v5.0</td><td>2026-05-08</td><td>Production</td></tr><tr><td>Product Inventory Management API</td><td>&lt;p&gt;Provides standardized mechanism for product inventory management such as creation, partial or full update and retrieval of the representation of a product in the inventory. It also allows the notification of events related to product lifecycle.&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;br&gt;v5.0.0
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+&lt;p&gt;14-Apr-2026 Fixed the oneOf validation logic for ProductRefOrValue schemas when Product payloads matched both branches due to shared inherited properties..&lt;/p&gt;
+&lt;p&gt;21-Jan-2026 The CTK and RI have been re-released in a dockerized format, this may require different set up requirements and any automation platforms will need to be updated. Click &lt;a href="https://projects.tmforum.org/wiki/display/API/TM+Forum+Open+API+Conformance+Testing+and+Validation+Instructions+Page" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     class="styled-link"&gt;
+    here for more information&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt; 
+&lt;br&gt;v4.0.0
+&lt;p&gt;
+15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;
+&lt;p&gt;07-Nov-2024 TMF637 v4.0.0 CTK file fix Mac-Linux-RUNCTK.sh modified to remove syntax errors. No impact to awarded Open API Conformance certifications.
+
+&lt;style&gt;
+.styled-link {
+  color: blue;               /* hyperlink blue */
+  text-decoration: underline; /* underline like a normal link */
+  cursor: pointer;           /* hand cursor on hover */
+}
+.styled-link:visited {
+  color: purple;             /* optional: visited link color */
+}
+.styled-link:hover {
+  color: darkblue;           /* hover color */
+}
+&lt;/style&gt;</td><td>TMF637</td><td>Product</td><td>RESTful</td><td>v5.0</td><td>2026-05-08</td><td>Production</td></tr><tr><td>Party Management API</td><td>&lt;p&gt;Provides a standardized mechanism for party management such as creation, update, retrieval, deletion and notification of events.&lt;br/&gt;Party can be an individual or an organization that has any kind of relationship with the enterprise.&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;br&gt; v5.0.0
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+&lt;p&gt;21-Jan-2026 The CTK and RI have been re-released in a dockerized format, this may require different set up requirements and any automation platforms will need to be updated. Click &lt;a href="https://projects.tmforum.org/wiki/display/API/TM+Forum+Open+API+Conformance+Testing+and+Validation+Instructions+Page" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     class="styled-link"&gt;
+    here for more information&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt; 
+&lt;br&gt; v4.0.0 
+&lt;p&gt;
+15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;
+&lt;p&gt;07-Nov-2024 TMF632 v4.0.0 CTK file fix Mac-Linux-RUNCTK.sh modified to remove syntax errors. No impact to awarded Open API Conformance certifications.
+
+&lt;style&gt;
+.styled-link {
+  color: blue;               /* hyperlink blue */
+  text-decoration: underline; /* underline like a normal link */
+  cursor: pointer;           /* hand cursor on hover */
+}
+.styled-link:visited {
+  color: purple;             /* optional: visited link color */
+}
+.styled-link:hover {
+  color: darkblue;           /* hover color */
+}
+&lt;/style&gt;</td><td>TMF632</td><td>Business Partner</td><td>RESTful</td><td>v5.0</td><td>2026-05-08</td><td>Production</td></tr><tr><td>Product Usage Management API</td><td>&lt;p&gt;
+Provides a standardized mechanism for usage management, including the creation, update, retrieval, import, and export of a collection of usages. The API manages both rated and non-rated usage. For example, it allows a service provider to (1) retrieve usage generated by a partner service platform for rating purposes and (2) provide rated usage to a partner for consumption follow-up.
+&lt;/p&gt;
+
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+
+&lt;br&gt;&lt;b&gt;v5.0.0&lt;/b&gt;
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+&lt;p&gt;
+31-Mar-2026 – TMF635 v5.0.0 Updated coversheet for User Guide and Conformance Profile
+&lt;/p&gt;
+&lt;p&gt;
+17-Mar-2026 – TMF635 v5.0.0 Stable release: Open API Specification (OAS), User Guide, Conformance Profile, Postman Collection, CTK, and Sample implementation code.
+&lt;/p&gt;
+&lt;p&gt;
+03-Mar-2026 – TMF635 v5.0.0 RC3 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection. Includes a fix addressing ambiguity caused by identical &lt;code&gt;oneOf&lt;/code&gt; schemas in the &lt;code&gt;PartyRefOrPartyRoleRef&lt;/code&gt; definition. A restriction has been added to the allowed value of &lt;code&gt;@type&lt;/code&gt; to improve tooling compatibility without altering the API signatures.
+&lt;/p&gt;
+
+&lt;p&gt;
+22-Jan-2026 – Usage API v4 uplifted to Product Usage v5, aligning the API and schemas with updated design standards. The &lt;code&gt;/usage&lt;/code&gt; endpoint was renamed to &lt;code&gt;/productUsage&lt;/code&gt;. &lt;code&gt;serviceUsage&lt;/code&gt; and &lt;code&gt;resourceUsage&lt;/code&gt; are now handled by separate APIs (TMF727 and TMF771 respectively). Specifications are managed by the TMF767 Product Usage Catalog Management API. A new &lt;code&gt;/exportJob&lt;/code&gt; resource was introduced to enable file-based export of product usage data, along with corresponding exportJob events.
+&lt;/p&gt;
+
+&lt;br&gt;&lt;b&gt;v4.0.0&lt;/b&gt;
+&lt;p&gt;
+15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;
+&lt;p&gt;
+07-Nov-2024 – TMF635 CTK file fix: Mac-Linux-RUNCTK.sh modified to remove syntax errors. No impact to awarded Open API Conformance certifications.
+&lt;/p&gt;</td><td>TMF635</td><td>Product</td><td>RESTful</td><td>v5.0</td><td>2026-05-08</td><td>Production</td></tr><tr><td>Revenue Sharing Report Management API</td><td>&lt;p&gt;Revenue Sharing Report Management API goal is to provide the report of a revenue sharing.&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0&lt;/pr&gt;
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+&lt;p&gt;21-Jan-2026 The CTK and RI have been re-released in a dockerized format, this may require different set up requirements and any automation platforms will need to be updated. Click &lt;a href="https://projects.tmforum.org/wiki/display/API/TM+Forum+Open+API+Conformance+Testing+and+Validation+Instructions+Page" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     class="styled-link"&gt;
+    here for more information&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt;
+
+
+&lt;style&gt;
+.styled-link {
+  color: blue;               /* hyperlink blue */
+  text-decoration: underline; /* underline like a normal link */
+  cursor: pointer;           /* hand cursor on hover */
+}
+.styled-link:visited {
+  color: purple;             /* optional: visited link color */
+}
+.styled-link:hover {
+  color: darkblue;           /* hover color */
+}
+&lt;/style&gt;</td><td>TMF737</td><td>Business Partner</td><td>RESTful</td><td>v5.0</td><td>2026-05-08</td><td>Production</td></tr><tr><td>Customer360 Management API</td><td>An API to give a consolidated Customer overview. This is a view-only API, based on the various underlying involved TM Forum Open APIs. This API provides references where one can find detailed information for: Account, Agreement, Appointment, CustomerBill, InteractionItem, LoyaltyBalance, ProductOrder, ProductValue, Promotion, Quote, ServiceProblem, TroubleTicket, UsageSpecification&lt;p&gt;
+Release history&lt;/br&gt;
+v5.0.1&lt;/&lt;br&gt;
+&lt;p&gt;
+11-Sept-2026 – TMF717 Customer 360 API v5.0.1 Stable release: Open API Specification (OAS), User Guide, Conformance Profile, CTK, Postman Collection, and RI. 
+&lt;p&gt;
+20-Aug-2026 – TMF717 Customer 360 API v5.0.1 RC2 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection. Minor changes from the previous release candidate include updating the HourPeriod schema with &lt;code&gt;startHour&lt;/code&gt; and &lt;code&gt;endHour&lt;/code&gt; properties, and replacing the &lt;code&gt;initialized&lt;/code&gt; AppointmentStateType value with &lt;code&gt;expired&lt;/code&gt;, &lt;code&gt;inProgress&lt;/code&gt;, &lt;code&gt;pending&lt;/code&gt;, and &lt;code&gt;rescheduled&lt;/code&gt;. For event notification request bodies, &lt;code&gt;engagedParty&lt;/code&gt; is now required on the customer object, &lt;code&gt;state&lt;/code&gt; is required on the productOrder object, and &lt;code&gt;@referredType&lt;/code&gt; is required in ResourceRef.
+&lt;/p&gt;
+&lt;p&gt;
+08-May-2026 – TMF717 v5.0.1 RC1 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection.
+&lt;/p&gt;
+
+&lt;p&gt;
+This Preview release fixes invalid examples caused by a recent OAS tooling change that made the &lt;code&gt;customer&lt;/code&gt; field mandatory within &lt;code&gt;event.customer360&lt;/code&gt;. A minimal illustrative example was added to satisfy this requirement.
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;b&gt;No Customer360 data models were updated in this release.
+&lt;br&gt; 01-Nov-2024 v5.0.1 release: preview release fixes to Conformance profile and User Guides. &lt;br&gt; - Updated Acknowledgement Section.
+&lt;br&gt; - Corrected create event example.
+&lt;br&gt; 20-Sept-2024 v5.0.1 release: OAS hotfix v5.0.1
+&lt;br&gt; - Corrected the discrepancies between the parameter names of entity and sub-entity
+&lt;br&gt; - Added Loyalty Account in place of Loyalty Balance sub-entity
+&lt;br&gt; - Run the specmatic tool on generated oas file and corrected all the errors</td><td>TMF717</td><td>Customer</td><td>RESTful</td><td>v5.0</td><td>2026-09-11</td><td>Production</td></tr><tr><td>Product Ordering Management API</td><td>&lt;p title=""&gt;Provides a standardized mechanism for placing a product order with all the necessary order parameters. The API consists of a simple set of operations that interact with CRM/Order negotiation systems in a consistent manner. A product order is created based on a product offering that is defined in a catalog. The product offering identifies the product or set of products that are available to a customer and includes characteristics such as pricing, product options and market.&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;br&gt; v5.0.0
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+&lt;p&gt;21-Jan-2026 The CTK and RI have been re-released in a dockerized format, this may require different set up requirements and any automation platforms will need to be updated. Click &lt;a href="https://projects.tmforum.org/wiki/display/API/TM+Forum+Open+API+Conformance+Testing+and+Validation+Instructions+Page" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     class="styled-link"&gt;
+    here for more information&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt; 
+&lt;br&gt; v4.0.0 
+&lt;p&gt;
+15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;
+&lt;p&gt;07-Nov-2024 TMF622 v4.0.0 CTK file fix Mac-Linux-RUNCTK.sh modified to remove syntax errors. No impact to awarded Open API Conformance certifications.
+
+&lt;style&gt;
+.styled-link {
+  color: blue;               /* hyperlink blue */
+  text-decoration: underline; /* underline like a normal link */
+  cursor: pointer;           /* hand cursor on hover */
+}
+.styled-link:visited {
+  color: purple;             /* optional: visited link color */
+}
+.styled-link:hover {
+  color: darkblue;           /* hover color */
+}
+&lt;/style&gt;</td><td>TMF622</td><td>Customer</td><td>RESTful</td><td>v5.0</td><td>2026-05-08</td><td>Production</td></tr><tr><td>Service Problem Management API</td><td>&lt;p&gt;
+The SPM API is used to manage service problems. Service problems are generated based on the information declared by a partner or the event information notified from infrastructure providers. The event information includes alarm information, performance anomaly information, trouble ticket information, SLA violation, maintenance information, and prediction information.
+&lt;/p&gt;
+
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+
+&lt;p&gt;&lt;b&gt;v5.1.0&lt;/b&gt;&lt;/p&gt;
+16-Oct-2026 – TMF656 v5.1.0 Stable release: Open API Specification (OAS), User Guide, Conformance Profile, CTK, RI, and Postman Collection.
+25-Sept-2026 – TMF656 v5.1.0 RC5 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection.
+&lt;/p&gt;
+11-Sept-2026 – TMF656 v5.1.0 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection.
+&lt;/p&gt;
+&lt;p&gt;
+20-May-2026 – TMF656 v5.1.0 RC2 Preview release: Updated to reflect that fields marked as required in schemas should also be included in response payloads to provide a meaningful representation of the resource for validation and integrations. Be aware that some formerly optional fields are now correctly marked as required in this release.&lt;/p&gt;
+&lt;p&gt;
+10-Apr-2026 – TMF656 v5.1.0 RC2 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection.
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;b&gt;What’s new:&lt;/b&gt;&lt;br&gt;
+This release includes several notable updates compared to the v5.0.0 release:
+&lt;ul&gt;
+  &lt;li&gt;All schemas have been updated and aligned to the latest versions.&lt;/li&gt;
+  &lt;li&gt;Removal of the &lt;code&gt;ProblemAcknowledgement&lt;/code&gt; and &lt;code&gt;ProblemUnacknowledgement&lt;/code&gt; resources, which were erroneously included in the v5.0.0 release.&lt;/li&gt;
+  &lt;li&gt;Resolved schema and example issues.&lt;/li&gt;
+  &lt;li&gt;Clarified optional fields and improved consistency across all published assets.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+17-Oct-2025 – TMF656 v5.1.0: Open API Specification (OAS), User Guide, and Conformance Profile.
+&lt;br&gt;
+&lt;b&gt;What’s new:&lt;/b&gt; Resolved schema and example issues, clarified optional fields, and aligned definitions across all assets.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;v5.0.0&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+&lt;p&gt;
+21-Jan-2026 – TMF656 v5.0.0 Stable release.
+&lt;br&gt;
+The CTK and Reference Implementation (RI) were re-released in a dockerized format. This may require different setup requirements, and any automation platforms will need to be updated.
+&lt;br&gt;
+Click
+&lt;a href="https://projects.tmforum.org/wiki/display/API/TM+Forum+Open+API+Conformance+Testing+and+Validation+Instructions+Page"
+   target="_blank"
+   rel="noopener noreferrer"
+   class="styled-link"&gt;here&lt;/a&gt;
+for more information.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;v4.0.0&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;
+07-Nov-2024 – TMF656 v4.0.0 CTK file fix: Mac-Linux-RUNCTK.sh modified to remove syntax errors. No impact to awarded Open API Conformance certifications.
+&lt;/p&gt;
+
+&lt;style&gt;
+.styled-link {
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.styled-link:visited {
+  color: purple;
+}
+.styled-link:hover {
+  color: darkblue;
+}
+&lt;/style&gt;
+``</td><td>TMF656</td><td>Service</td><td>RESTful</td><td>v5.1</td><td>2026-10-16</td><td>Production</td></tr><tr><td>Service Inventory Management API</td><td>&lt;p&gt;The intent of this API is to provide a consistent/standardized mechanism to query and manipulate the Service inventory.&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;br&gt;&lt;p&gt;v5.1.0&lt;/p&gt;
+&lt;p&gt;30-Sept-2025 v5.1.0 Preview release: Fixed enum mismatch in examples, added operatingStatusContextUpdate, aligned for RI validation. Open API Specification (OAS), User Guide, Conformance Profile &lt;/p&gt;
+&lt;br&gt;&lt;p&gt;v5.0.0&lt;/p&gt;
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+&lt;p&gt;21-Jan-2026 The CTK and RI have been re-released in a dockerized format, this may require different set up requirements and any automation platforms will need to be updated. Click &lt;a href="https://projects.tmforum.org/wiki/display/API/TM+Forum+Open+API+Conformance+Testing+and+Validation+Instructions+Page" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     class="styled-link"&gt;
+    here for more information&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt; 
+&lt;p&gt;30-Aug-2024 v5.0.0 CTK fixes released&lt;/p&gt;
+&lt;br&gt;v4.0.0&lt;/br&gt;
+&lt;p&gt;
+15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;
+&lt;p&gt;07-Nov-2024 TMF638 v4.0.0 CTK file fix Mac-Linux-RUNCTK.sh modified to remove syntax errors. No impact to awarded Open API Conformance certifications.
+
+&lt;style&gt;
+.styled-link {
+  color: blue;               /* hyperlink blue */
+  text-decoration: underline; /* underline like a normal link */
+  cursor: pointer;           /* hand cursor on hover */
+}
+.styled-link:visited {
+  color: purple;             /* optional: visited link color */
+}
+.styled-link:hover {
+  color: darkblue;           /* hover color */
+}
+&lt;/style&gt;</td><td>TMF638</td><td>Service</td><td>RESTful</td><td>v5.0</td><td>2026-05-08</td><td>Production</td></tr><tr><td>Product Offering Qualification Management API</td><td>&lt;p&gt;Product Offering Qualification API is one of Pre-Ordering Management API Family. Product Offering Qualification API goal is to provide Product Offering commercial eligibility.&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0&lt;/p&gt;
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+&lt;p&gt;21-Jan-2026 The CTK and RI have been re-released in a dockerized format, this may require different set up requirements and any automation platforms will need to be updated. Click &lt;a href="https://projects.tmforum.org/wiki/display/API/TM+Forum+Open+API+Conformance+Testing+and+Validation+Instructions+Page" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     class="styled-link"&gt;
+    here for more information&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt;
+05 Nov 2024 v5.0.0 stable release. CTK updates made: logic to handle optional GET responses for a POST that responds with a 200 code. &lt;br&gt;
+16 Aug 2024 v5.0.0 stable release.
+
+&lt;style&gt;
+.styled-link {
+  color: blue;               /* hyperlink blue */
+  text-decoration: underline; /* underline like a normal link */
+  cursor: pointer;           /* hand cursor on hover */
+}
+.styled-link:visited {
+  color: purple;             /* optional: visited link color */
+}
+.styled-link:hover {
+  color: darkblue;           /* hover color */
+}
+&lt;/style&gt;
+
+&lt;p&gt;
+v4.0 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;</td><td>TMF679</td><td>Product</td><td>RESTful</td><td>v5.0</td><td>2026-05-08</td><td>Production</td></tr><tr><td>Party Interaction Management API</td><td>&lt;p&gt;A User Interaction captures information about past interactions in order to re-use it in future ones. This allows agents to serve users better by knowing the steps they went through. It also allows customers to see better the actions they have performed and how they interacted with us.&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0&lt;/pr&gt;
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+&lt;p&gt;21-Jan-2026 The CTK and RI have been re-released in a dockerized format, this may require different set up requirements and any automation platforms will need to be updated. Click &lt;a href="https://projects.tmforum.org/wiki/display/API/TM+Forum+Open+API+Conformance+Testing+and+Validation+Instructions+Page" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     class="styled-link"&gt;
+    here for more information&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt; 
+
+&lt;style&gt;
+.styled-link {
+  color: blue;               /* hyperlink blue */
+  text-decoration: underline; /* underline like a normal link */
+  cursor: pointer;           /* hand cursor on hover */
+}
+.styled-link:visited {
+  color: purple;             /* optional: visited link color */
+}
+.styled-link:hover {
+  color: darkblue;           /* hover color */
+}
+&lt;/style&gt;
+&lt;p&gt;
+V4.0 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;</td><td>TMF683</td><td>Business Partner</td><td>RESTful</td><td>v5.0</td><td>2026-05-08</td><td>Production</td></tr><tr><td>Party Role Management API</td><td>&lt;p&gt;A standardized mechanism for general party roles and includes operations such as creation, update, retrieval, deletion and notification of events. Notice that for the management of customers there is a specific Customer Management API.&lt;br/&gt;Party Role management API manages the following data resources: PartyRole&lt;/p&gt;
+&lt;br&gt;&lt;b&gt;Version history&lt;/b&gt;
+&lt;p&gt;v5.0.0&lt;/pr&gt;
+&lt;p&gt; 08-May-2026 docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments where this previously required in‑house configuration. README files have been updated to document proxy usage. Failed HTML reports can now be opened directly in a browser, and HTML reports now include headers identifying the API and CTK version used, improving certification clarity and traceability.&lt;/p&gt;
+&lt;p&gt;21-Jan-2026 The CTK and RI have been re-released in a dockerized format, this may require different set up requirements and any automation platforms will need to be updated. Click &lt;a href="https://projects.tmforum.org/wiki/display/API/TM+Forum+Open+API+Conformance+Testing+and+Validation+Instructions+Page" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     class="styled-link"&gt;
+    here for more information&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt;
+&lt;br&gt;v4.0.0&lt;/br&gt;
+&lt;p&gt;
+V4.0 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt;
+07-Nov-2024  TMF669 v4.0.0 CTK file fix Mac-Linux-RUNCTK.sh modified to remove syntax errors. No impact to awarded Open API Conformance certifications.
+
+&lt;style&gt;
+.styled-link {
+  color: blue;               /* hyperlink blue */
+  text-decoration: underline; /* underline like a normal link */
+  cursor: pointer;           /* hand cursor on hover */
+}
+.styled-link:visited {
+  color: purple;             /* optional: visited link color */
+}
+.styled-link:hover {
+  color: darkblue;           /* hover color */
+}
+&lt;/style&gt;</td><td>TMF669</td><td>Business Partner</td><td>RESTful</td><td>v5.0</td><td>2026-05-08</td><td>Production</td></tr><tr><td>Resource Function Activation Management API</td><td>&lt;p&gt;This API introduces Resource Function which is used to represent a Network Service as well as a Network Function. The Network Service and Network Function class definitions and associations in TR244 (which, in turn, builds on concepts from the SID addenda on Logical Resource and Service) are utilized to define the Resource Function&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;V5.0&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;25-Sept-2026 TMF664 v5.0.0 RC4 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection. 
+&lt;p&gt;
+&lt;p&gt;4-Sept-2026 TMF664 v5.0.0 RC3 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection. 
+&lt;p&gt;
+22-July-2026 TMF664 v5.0.0 RC2 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection. Updated preview including improved API and schema descriptions, enhanced Heal, Scale and Migrate documentation, standardised enum values and reusable schema definitions, updated examples and conformance assets, and validation and conformance profile improvements.&lt;/p&gt;
+&lt;p&gt;
+19-June-2026 TMF664 v5.0.0 RC1 Preview release: Open API Specification (OAS), User Guide, Conformance Profile, and Postman Collection.
+This release provides the first v5.0.0 preview of the Resource Function Activation Management API, aligned with the latest TM Forum Open API standards.
+&lt;/p&gt;
+
+&lt;p&gt;
+V4.0 15-May-2026 –  CTK updated
+docker-compose has been expanded to enable proxy settings by default, simplifying CTK execution in corporate HTTP proxy environments. README files have been updated to document proxy configuration.&lt;/p&gt; 
+
+
+&lt;p&gt; 27-Aug-2024 v4.0.0 TMF664 Resource Function Activation and Configuration Conformance Profile - Fix released</td><td>TMF664</td><td>Resource</td><td>RESTful</td><td>v4.0</td><td>2026-05-15</td><td>Production</td></tr>
+          </tbody>
+        </table>
+      </body>
+      </html>
+    

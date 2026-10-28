@@ -1,0 +1,12 @@
+# API별 분석 입력 정보
+
+- TMF API ID / 명칭: [예: TMF622 Product Ordering]
+- API 버전: [예: 4.0.0]
+- 분석 목적: [예: 표준 연동 규격서 작성]
+- 제공 파일: [Swagger/OAS, User Guide, Conformance Profile, JSON Example]
+- 중점 분석 범위: [전체 Operation / 특정 Resource / 이벤트 / 상태 / 데이터 모델]
+- 산출물 수준: [요약본 / 상세 연동 규격서]
+- 작성 언어: 한국어
+- 추가 업무 규칙: [공식 근거 또는 사용자 제공 내용만 입력]
+
+위 입력 정보와 제공된 파일을 기준으로 공통 작성 지침에 따라 분석하십시오. 입력하지 않은 항목은 임의로 가정하지 마십시오.
